@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<script>
+(function() {
+  function dummyBreak(fn) {
+    if (typeof fn === 'function') {
+      try { fn(true); } catch(e) {}
+    }
+    return Promise.resolve(true);
+  }
+  window.commercialBreak = window.commercialBreak || dummyBreak;
+  window.rewardedBreak = window.rewardedBreak || dummyBreak;
+  try {
+    if (window.parent && window.parent !== window) {
+      window.parent.commercialBreak = window.parent.commercialBreak || dummyBreak;
+      window.parent.rewardedBreak = window.parent.rewardedBreak || dummyBreak;
+    }
+    if (window.top && window.top !== window) {
+      window.top.commercialBreak = window.top.commercialBreak || dummyBreak;
+      window.top.rewardedBreak = window.top.rewardedBreak || dummyBreak;
+    }
+  } catch(e) {}
+})();
+</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<title>Backrooms Recovery</title>
+<style>
+  html,body{margin:0;padding:0;width:100%;height:100%;overflow:hidden;background:#000;}
+  #stage{position:fixed;left:0;top:0;right:0;bottom:0;overflow:hidden;}
+  #frame{border:0;display:block;position:absolute;left:50%;top:50%;
+          transform:translate(-50%,-50%);background:#000;width:100%;height:100%;}
+</style>
+</head>
+<body>
+<div id="stage"><iframe id="frame" src="game.html" allowfullscreen allow="autoplay;fullscreen"></iframe></div>
+<script>
+(function () {
+  function fit() {
+    var frame = document.getElementById('frame');
+    if (!frame) return;
+    frame.style.width = window.innerWidth + 'px';
+    frame.style.height = window.innerHeight + 'px';
+  }
+  window.addEventListener('resize', fit);
+  window.addEventListener('orientationchange', fit);
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', fit);
+  } else {
+    fit();
+  }
+  window.addEventListener('load', fit);
+})();
+</script>
+</body>
+</html>
