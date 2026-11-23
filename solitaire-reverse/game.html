@@ -1,0 +1,47 @@
+<!DOCTYPE html>  
+<html>  
+<head>
+<script>
+(function() {
+    function dummyBreak(fn) {
+        if (typeof fn === 'function') {
+            try { fn(); } catch(e) {}
+        }
+        return Promise.resolve(true);
+    }
+    window.commercialBreak = window.commercialBreak || dummyBreak;
+    window.rewardedBreak = window.rewardedBreak || dummyBreak;
+    try {
+        if (window.parent && window.parent !== window) {
+            window.parent.commercialBreak = window.parent.commercialBreak || dummyBreak;
+            window.parent.rewardedBreak = window.parent.rewardedBreak || dummyBreak;
+        }
+        if (window.top && window.top !== window) {
+            window.top.commercialBreak = window.top.commercialBreak || dummyBreak;
+            window.top.rewardedBreak = window.top.rewardedBreak || dummyBreak;
+        }
+    } catch(e) {}
+})();
+</script>
+  <script>window.open = function () {}; window.NOSW = true;</script>
+<script src="poki-sdk.js"></script>  
+	<meta charset='utf-8'>  
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui, viewport-fit=cover' />
+    <meta name='mobile-web-app-capable' content='yes'>
+	<meta name='apple-mobile-web-app-capable' content='yes'>
+	<meta name='apple-mobile-web-app-status-bar-style' content='translucent-black'>
+	<meta name='description' content='Solitaire Reverse'>
+	<meta name='keywords' content=''>
+	<title>Solitaire Reverse</title>
+	<link rel='stylesheet' type='text/css' href='styles.css'>
+	<link rel='stylesheet' type='text/css' href='bootstrap.min.css'>
+	
+    <script src='game_min.js'></script>
+</head>  
+<body>
+
+	<canvas id='gamecanvas' width='1900' height='1020'>
+	</canvas>
+
+</body>  
+</html>
