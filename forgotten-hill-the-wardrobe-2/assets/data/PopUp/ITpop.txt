@@ -1,0 +1,9 @@
+filename|startX|startY|spazioDisp|font|text|sceneNameToBlock
+
+bigliettoSpecchioPOP|400|200|400|a| La Luce Ã¨ sempre rivelatrice |splash
+
+indizioNavePOP|400|280|350|a| Un buon capitano sempre segue la rotta |splash
+puzZPOP|400|280|350|a||splash
+indizFruttaPOP|400|280|350|a||splash
+ipnoticoPOP|400|90|500|a| Sono quasi riuscita ha ricreare il Sapore Dimenticato. Credo mi manchino alcuni ingredienti, ma questa ricetta si avvicina molto. Peccato abbia un potente effetto ipnotico. |splash
+

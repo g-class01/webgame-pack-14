@@ -1,0 +1,17 @@
+chiaveSpecchio|ÐºÐ»ÑŽÑ‡
+chiaveT|ÐºÐ»ÑŽÑ‡
+bigliettoSpecchioPOP|ÐºÑƒÑÐ¾Ñ‡ÐµÐº Ð±ÑƒÐ¼Ð°Ð³Ð¸
+cacciavite|Ð¾Ñ‚Ð²ÐµÑ€Ñ‚ÐºÐ°
+candela|ÑÐ²ÐµÑ‡Ð°
+candelabro|Ð¿Ð¾Ð´ÑÐ²ÐµÑ‡Ð½Ð¸Ðº
+chiaveArmadio|ÐºÐ»ÑŽÑ‡
+chiaveCam|ÐºÐ»ÑŽÑ‡
+chiaveSTarmadio|ÐºÐ»ÑŽÑ‡
+coltello|Ð½Ð¾Ð¶
+fiammiferi|ÑÐ¿Ð¸Ñ‡ÐºÐ¸
+fogliettoPOP|ÐºÑƒÑÐ¾Ñ‡ÐµÐº Ð±ÑƒÐ¼Ð°Ð³Ð¸
+gemma|Ð¶ÐµÐ¼Ñ‡ÑƒÐ¶Ð¸Ð½Ð°
+medicina|Ð¼ÐµÐ´Ð¸Ñ†Ð¸Ð½Ð°
+serratOBJ|Ð·Ð°Ð¼Ð¾Ðº
+
+

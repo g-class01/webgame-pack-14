@@ -1,0 +1,64 @@
+animaliDOC|libro
+bacca|baya
+bacche|bayas
+bekerP|tarro lleno
+bekerP2|tarro lleno
+bekerV|tarro vacÃ­o
+BingredientiDOC|pedazo de papel
+bisturi|cortador
+cacciavite|destornillador
+chiaveAbby|llave
+chiaveArmadio|llave
+chiaveBotola|llave
+chiaveLiana|llave
+chiaveMarta|llave
+chiavePoltronaM|llave
+chiaveRighe|llave
+chiaveSPcucina|llave
+chiaveUccello|llave
+chiavistello|cerradura
+chiodo|clavo
+corvoCornu|Cuervo Cornudo
+falcetto|hoz
+Fara|flor naranja
+Fazzu|flor azul
+Fgia|flor amarilla
+fiammiferi|fÃ³sfors
+forbiciOro|tijeras de oro
+Fred|flor roja
+Fviola|flor purpura
+guantiForno|guantes de cocina
+guantoForno1|guante de cocina
+indizFruttaPOP|pedazo de papel
+indizioNavePOP|pedazo de papel
+ingredientiDOC|libro
+ipnoticoPOP|pedazo de papel
+letteraDOC|carta
+letteraMandrakeDOC|carta
+libroUccelliDOC|libro
+mandrakeBocc|EspÃ­ritu de MandrÃ¡gora
+marmellata|mermelada sazonada
+martello|martillo
+moneta|moneda
+pasto|postre
+pennello|cepillo de pintura
+pinza|tenazas
+puzZPOP|pedazo de papel
+ricettaDOC|pedazo de papel
+richiamo_sx_GUI|reclamo de pato
+ritaglio|receta
+Rpennello|cepillo de pintura
+schifrutto|mango de Judas
+serratOBJ|cerradura
+speziere_dx_GUI|molinillo de sabor
+teschioU|crÃ¡neo de pÃ¡jaro clavado
+vasoApe|tarro
+vasoApePieno|tarro con avispa
+vasoMiele|tarro
+vasoPMiele|tarro de miel
+BaccheP|jugo de bayas jugosas
+LiquiP|regaliz
+MandrakeP|EspÃ­ritu de MandrÃ¡gora
+MarmellaP|mermelada sazonada
+MieleP|miel de avispa
+SchifruttoP|jugo de mango de Judas

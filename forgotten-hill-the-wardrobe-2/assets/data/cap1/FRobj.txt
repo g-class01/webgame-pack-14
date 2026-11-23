@@ -1,0 +1,15 @@
+chiaveSpecchio|clÃ©
+chiaveT|clÃ©
+bigliettoSpecchioPOP|feuille
+cacciavite|tourne-vis
+candela|bougie
+candelabro|bougeoir
+chiaveArmadio|clÃ©
+chiaveCam|clÃ©
+chiaveSTarmadio|clÃ©
+coltello|couteau
+fiammiferi|allumettes
+fogliettoPOP|feuille
+gemma|gemme
+medicina|mÃ©dicament
+serratOBJ|verrou

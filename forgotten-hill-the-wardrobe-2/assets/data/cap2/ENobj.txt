@@ -1,0 +1,64 @@
+animaliDOC|book
+bacca|berry
+bacche|berries
+bekerP|full jar
+bekerP2|full jar
+bekerV|empty jar
+BingredientiDOC|piece of paper
+bisturi|cutter
+cacciavite|screwdriver
+chiaveAbby|key
+chiaveArmadio|key
+chiaveBotola|key
+chiaveLiana|key
+chiaveMarta|key
+chiavePoltronaM|key
+chiaveRighe|key
+chiaveSPcucina|key
+chiaveUccello|key
+chiavistello|door lock
+chiodo|nail
+corvoCornu|Horned Raven
+falcetto|sickle
+Fara|orange flower
+Fazzu|blue flower
+Fgia|yellow flower
+fiammiferi|matches
+forbiciOro|golden scissors
+Fred|red flower
+Fviola|purple flower
+guantiForno|oven mittens
+guantoForno1|oven mitten
+indizFruttaPOP|piece of paper
+indizioNavePOP|piece of paper
+ingredientiDOC|book
+ipnoticoPOP|piece of paper
+letteraDOC|letter
+letteraMandrakeDOC|letter
+libroUccelliDOC|book
+mandrakeBocc|Mandrake Spirit
+marmellata|Seasoned Jam
+martello|hammer
+moneta|coin
+pasto|dessert
+pennello|paint brush
+pinza|pincers
+puzZPOP|piece of paper
+ricettaDOC|piece of paper
+richiamo_sx_GUI|duck call
+ritaglio|recipe
+Rpennello|paint brush
+schifrutto|Judas mango
+serratOBJ|door lock
+speziere_dx_GUI|flavor grinder
+teschioU|nailed bird skull
+vasoApe|jar
+vasoApePieno|jar with wasp
+vasoMiele|bottle
+vasoPMiele|bottle with honey
+BaccheP|juicy berry juice
+LiquiP|licorice
+MandrakeP|mandrake Spirit
+MarmellaP|seasoned Jam
+MieleP|wasp Honey
+SchifruttoP|Judas mango juice

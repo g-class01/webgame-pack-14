@@ -1,0 +1,64 @@
+animaliDOC|libro
+bacca|bacca
+bacche|bacche
+bekerP|bicchiere pieno
+bekerP2|bicchiere pieno
+bekerV|bicchiere graduato
+BingredientiDOC|foglietto
+bisturi|taglierino
+cacciavite|cacciavite
+chiaveAbby|chiave
+chiaveArmadio|chiave
+chiaveBotola|chiave
+chiaveLiana|chiave
+chiaveMarta|chiave
+chiavePoltronaM|chiave
+chiaveRighe|chiave
+chiaveSPcucina|chiave
+chiaveUccello|chiave
+chiavistello|chiavistello
+chiodo|chiodo
+corvoCornu|Corvo Cornuto
+falcetto|falcetto
+Fara|fiore arancione
+Fazzu|fiore azzurro
+Fgia|fiore giallo
+fiammiferi|fiammiferi
+forbiciOro|forbici dorate
+Fred|fiore rosso
+Fviola|fiore viola
+guantiForno|guanti da forno
+guantoForno1|guanto da forno
+indizFruttaPOP|foglietto
+indizioNavePOP|foglietto
+ingredientiDOC|libro
+ipnoticoPOP|foglietto
+letteraDOC|lettera
+letteraMandrakeDOC|lettera
+libroUccelliDOC|libro
+mandrakeBocc|Spirito di Mandragora
+marmellata|Marmellata stagionata
+martello|martello
+moneta|moneta
+pasto|dolce
+pennello|pennello
+pinza|pinze
+puzZPOP|foglietto
+ricettaDOC|foglietto
+richiamo_sx_GUI|richiamo per anatre
+ritaglio|ricetta
+Rpennello|pennello
+schifrutto|mango di Giuda
+serratOBJ|chiavistello
+speziere_dx_GUI|macina aromi
+teschioU|teschio d'uccello chiodato
+vasoApe|barattolo
+vasoApePieno|barattolo con vespa
+vasoMiele|vasetto
+vasoPMiele|vasetto di miele
+BaccheP|succo di mirtilli
+LiquiP|liquirizia
+MandrakeP|Spirito di Mandragora
+MarmellaP|Marmellata stagionata
+MieleP|miele di Vespa
+SchifruttoP|succo di mango di Giuda

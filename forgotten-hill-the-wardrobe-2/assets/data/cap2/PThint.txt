@@ -1,0 +1,47 @@
+
+ EstÃ¡ faltando alguma coisa
+ Selecione a dica ou feche o menu de dica
+ Este objeto pode ajudÃ¡-lo. Verifique seu inventÃ¡rio.
+ Este elemento pode ajudÃ¡-lo. Verifique com cuidado.
+ Verifique este local com cuidado...
+ Neste livro vocÃª encontrarÃ¡ pistas importantes
+ 
+ Troque as peÃ§as para combinar todas as linhas
+ Use a lÃ¢mpada para fazer as sombras dos pÃ¡ssaros combinarem com suas silhuetas
+ OuÃ§a com atenÃ§Ã£o a histÃ³ria que o mordomo lhe conta
+ Este objeto pode ajudÃ¡-lo. Verifique seu inventÃ¡rio.
+ Siga as linhas para encontrar o cartÃ£o errado.
+ Ocupe todos os espaÃ§os com os muffins sem nunca os sobrepor
+ Consulte o livro para descobrir quem pode ajudÃ¡-lo com o relÃ³gio.
+ 
+ 
+ 
+|hintPuzRighe1| A primeira linha Ã© assim, vocÃª pode continuar sozinho?|
+|puzNave1| Pressione os pinos na parede imitando o curso do navio na pista|
+|anatraPrimo1| Neste livro vocÃª encontrarÃ¡ pistas importantes|
+|anatraPrimo2| FaÃ§a esta sequÃªncia com a chamada para chamar o pato|
+|anatraFame1| Parece que o pato estÃ¡ com fome|
+|anatraFame2| Verifique este local com cuidado...|
+|hintLangAnatre1| O pato sabe quais sÃ£o as palavras de agradecimento|
+|hintLangAnatre2| FaÃ§a esta sequÃªncia com o canto do pato|
+|PuzZampe1| Verifique se o comprimento e a inclinaÃ§Ã£o de todas as peÃ§as correspondem Ã  pista|
+|corvese1| Consulte o livro para traduzir a lÃ­ngua dos patos para o CorvÃªs|
+|corvese2| FaÃ§a esta sequÃªncia de chamada de pato para atender o mordomo|
+|rosaRossa1| Verifique este local com cuidado...|
+|rosaRossa2| Mergulhe o pincel em sangue para pintar as rosas de vermelho|
+|puzPiantaSfiori1| Arrume as flores seguindo as instruÃ§Ãµes do philatroke|
+|puzPiantaSfiori2| Organize as flores nas videiras nesta ordem|
+|richiamaCorvo1| Consulte o livro para entender como chamar o corvo chifrudo|
+|richiamaCorvo2| FaÃ§a esta sequÃªncia com o canto do pato para chamar o corvo chifrudo|
+|ripetiCorvo1| Repita o que o corvo lhe diz, traduzindo da linguagem dos patos|
+|puzzleFrutta1| Use o decodificador e os sÃ­mbolos no quadro para encontrar a combinaÃ§Ã£o certa|
+|ingressoMartha1| Consulte a canÃ§Ã£o infantil para encontrar a combinaÃ§Ã£o de aromas favorita de Martha|
+|primoPico1| Consulte o livro para entender como fazer o Pico te seguir|
+|picoAiuto1| Consulte o livro para obter ajuda do Pico.|
+|picoNusma1| PeÃ§a ao Pico para cheirar a luva do forno e depois peÃ§a-lhe ajuda.|
+|picoMandrake1| Traga o Pico aqui e peÃ§a ajuda.|
+|chiamaVespa1| Consulte o livro para entender como chamar a vespa do mel.|
+|hintCalmaApi1| Consulte o livro para entender como acalmar as abelhas.|
+|forgottenTaste1| Vamos ajudÃ¡-lo a criar o sabor esquecido: vocÃª vai precisar de 3 porÃ§Ãµes de mel!|
+|forgottenTaste2| Disponha os ingredientes desta forma para obter o sabor esquecido.|
+|pozzaHypno1| Prepare o sabor com efeitos hipnÃ³ticos para dar ao mordomo.|

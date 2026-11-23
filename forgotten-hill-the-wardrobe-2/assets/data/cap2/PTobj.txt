@@ -1,0 +1,64 @@
+animaliDOC|livro
+bacca|baga
+bacche|bagas
+bekerP|jarra cheia
+bekerP2|jarra cheia
+bekerV|jarra vazia
+BingredientiDOC|pedaÃ§o de papel
+bisturi|cortador
+cacciavite|chave de fendas
+chiaveAbby|chave
+chiaveArmadio|chave
+chiaveBotola|chave
+chiaveLiana|chave
+chiaveMarta|chave
+chiavePoltronaM|chave
+chiaveRighe|chave
+chiaveSPcucina|chave
+chiaveUccello|chave
+chiavistello|fechadura da porta
+chiodo|unha
+corvoCornu|Corvo Chifrudo
+falcetto|foice
+Fara|flor laranja
+Fazzu|flor-azul
+Fgia|flor amarela
+fiammiferi|fÃ³sforos
+forbiciOro|tesoura de ouro
+Fred|flor vermelha
+Fviola|flor roxa
+guantiForno|luvas de cozinha
+guantoForno1|luva de cozinha
+indizFruttaPOP|pedaÃ§o de papel
+indizioNavePOP|pedaÃ§o de papel
+ingredientiDOC|livro
+ipnoticoPOP|pedaÃ§o de papel
+letteraDOC|carta
+letteraMandrakeDOC|carta
+libroUccelliDOC|livro
+mandrakeBocc|EspÃ­rito de MandrÃ¡gora
+marmellata|gelÃ©ia temperada
+martello|Martelo
+moneta|moeda
+pasto|sobremesa
+pennello|pincel
+pinza|pinÃ§as
+puzZPOP|pedaÃ§o de papel
+ricettaDOC|pedaÃ§o de papel
+richiamo_sx_GUI|chamada de pato
+ritaglio|receita
+Rpennello|pincel
+schifrutto|manga de Judas
+serratOBJ|fechadura da porta
+speziere_dx_GUI|moedor de sabor
+teschioU|crÃ¢nio de pÃ¡ssaro pregado
+vasoApe|jarro
+vasoApePieno|jarra com vespa
+vasoMiele|jarra
+vasoPMiele|jarra de mel
+BaccheP|suco de bagas suculentas
+LiquiP|alcaÃ§uz
+MandrakeP|EspÃ­rito de MandrÃ¡gora
+MarmellaP|gelÃ©ia temperada
+MieleP|mel de vespa
+SchifruttoP|suco de manga de Judas

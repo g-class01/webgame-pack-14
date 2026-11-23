@@ -1,0 +1,72 @@
+
+testDOC|stpX=86|WriteLayer=screen|sceneBL=Corr1C2|startX=200|startY=30|startY2=30|spazioDisp=200|spazioDisp2=200|adjust=5|font=hand|singolo=true|allign=center|image=volantino|if_LENGUAGE_IT_adjust_8|double=false|startX2=600|skip=false|allignPG2=center
+*|if_LENGUAGE_IT_adjust_8|
+*|double=true|
+*|
+*|skip=true|image=libroFilastrocca|singolo=false|
+*|startX=600|font=stamp|adjust=2|
+
+
+diarioDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=98|startY=40|startY2=40|spazioDisp=300|spazioDisp2=280|adjust=3|font=hand|singolo=false|allign=left|image=liario2|double=false|startX2=425|skip=false|allignPG2=left
+*|image=copertinaDiario
+*|image=diarioPG2|text= Dear diary, \ I'm so happy, I've finally found a world just for me! Everything is pretty there and just the way I want! It's a secret too! I met a weird but nice butler there who
+*|image=diarioPG2|text= \ explained a lot of silly things to me. Like how only people using a special key can reach my world, so it's super safe!
+
+libroUccelliDOC|stpX=86|stpXpg2=403|WriteLayer=screen|sceneBL=splash|startX=100|startY=35|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaUCC|double=false|startX2=570|skip=false|allignPG2=center
+*|
+*|image=libroUCCpg3|text= @DUCKS \ Ducks are social animals that use vocalizations to communicate. We can graphically represent their sounds with these symbols: \ stp_a/73 \ They often use this filler sound, without a precise meaning: stp_b/48 \
+*|image=libroUCCpg2|text= This sequence has proved to be very effective to recall a duck: stp_chiamata/70 \ This is a sequence that, if properly translated, can also be used with different birds. \ \ This song, however, means that the duck is starving: stp_fame/120
+*|double=true|image=libroUCCpgBlank|text= @CROWS \ Crows are intelligent animals which it's very interesting to communicate with. This is how we represent their song: \ stp_simbC/48 \ \ Crows don't use filler sounds, each note has a purpose. They sound harsher and hoarser than other birds.
+*|text= \ Compared to ducks one, crows language works the opposite way. \ stp_reverse/112 \ Sounds are read from bottom to top and from right to left.
+*|skip=true|image=libroUCCpg4|text= In the language of crows moreover, two close single sounds are equivalent to a composite duck sound. A crow composite sounds, on the other hand, is split into two single duck sounds. \ stp_fusion/163 \
+
+append|paginaORO|libroUccelliDOC|*|image=PGuccelloORO|text= @THE GOLDEN BIRD \ Bird of the anatidae family, it's extremely rare and perhaps almost extinct. It owes its name to the fact that, if properly encouraged, it can sniff out and find any gold object nearby. \ This sequence of sounds \ stp_aiuto/58 \ \ has been interpreted as a distress call.
+append|paginaCorvo|libroUccelliDOC|*|image=PGcorvoCorna|text= @CORVUS CORNUTENSIS \ The horned raven is a passerine bird of the corvid family. It possesses an extremely aggressive nature and its language is very similar to that of common crows, but it uses opposite sounds. \ stp_invCorna/131 \
+append|paginaCorvo2|libroUccelliDOC|*|image=PGcorvoCorna2|text= \ When approached by a human stranger, it emits a typical song to verify the reliability. The best thing, in these situations, is to reply in kind, or the horned raven could give way to its innate and ferocious aggressivity, becoming very dangerous.
+
+fioriDOC|stpX=center|WriteLayer=screen|sceneBL=splash|startX=400|startY=35|startY2=40|spazioDisp=250|spazioDisp2=250|adjust=1|font=stamp|singolo=true|allign=center|image=fioriDocu|double=false|startX2=425|skip=false|allignPG2=center
+*|text= @FIVE LITTLE GIRLS \ \ A little girl loves the coffee smell, \ and with yellow flowers the second fits so well. \ stp_caffe/40 \ A little girl loves chocolate a lot, \ and with purple flowers takes the one on the right, exactly in that spot. \ stp_ciocco/40
+*|text= \ A little girl likes vanilla very much, \ and with orange flowers takes the center, it's as such \ stp_vaniglia/40 \ A little girl smells cinnamon all day long, \ and with blue flowers takes the one on the left, she's not wrong. \ stp_cannella/40
+*|text= \ Another girl thinks chocolate is the best, \ and with red roses takes the one that is left. \ stp_ciocco/40
+
+letteraKeyDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=125|startY=45|startY2=60|spazioDisp=300|adjust=1|font=hand|singolo=false|allign=left|image=letteraKeyDOC|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Dear Abby, \ I can't wait to show you my world, it's great! \ To come in, you must bring a recipe for an exquisite dessert. \ I hope you will come soon. \ @Martha.
+
+letteraDOC|stpX=86|sceneBL=splash|WriteLayer=screen|startX=125|startY=45|spazioDisp=300|adjust=1|font=hand|singolo=false|allign=left|image=lettera|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Dear Abby, \ I can't wait to show you my world, it's great! \ To come in, you must bring a recipe for an exquisite dessert. \ I hope you will come soon. \ @Martha.
+
+giornaleDOC|stpX=86|WriteLayer=giornale|sceneBL=splash|startX=280|startY=130|spazioDisp=450|spazioDisp2=655|adjust=2|font=stamp|singolo=invisibile|allign=left|image=invisibile|double=true|startX2=91|startY2=332|skip=false|allignPG2=left
+*|double=true|text= Today our chef is proud to offer you the recipe for a truly exquisite dessert, the Angel Heart Cake. Easy to prepare and with simple and genuine ingredients, it will amaze young and old. Just folow these step-by-step directions. Take a cup of wild gentian puree, a tablespoon of condensed yak milk, 4 puffin eggs, a cup of
+*|text= olives, four cups flour, a pinch of abanero chili powder, three coffeespoons of beetroot molasses, and a squeeze of sprouted
+
+ingredientiDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=100|startY=40|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaING|double=false|startX2=425|skip=false|allignPG2=left
+*|image=copertinaING
+*|image=paginaSchifrutto|text= @JUDAS MANGO \ \ Plant with a habitual droop, also called the plant with no flowers after an ancient story for children. Its natural absence of flowers makes its fruit very precious: only when a series of precise conditions are met, a single mango is produced. A very fragrant and delicious juice is extracted from it.
+*|image=paginaMandrake|text= @MANDRAKE SPIRIT \ \ Distillate with high alcohol content obtained from the fermentation of the mandrake root. Once quite widespread, the belief that mandrakes contain the spirit of the dead and the high addictive effect have marked the decline in the production of this typical Forgotten Hill liqueur.
+*|image=paginaMiele|text= @VESPULATIS HONEY \ \ Fine and rare multiflora honey produced by vespula mellifera. Its strong and aromatic taste makes it extremely versatile in the kitchen and in pastry. A real delicacy, precious and sophisticated.
+*|image=paginaBacche|text= @MYRTILLUS SUCULENTUS \ \ Fruit shrub with a bushy habit that produces small blue berries. A robust plant that easily lends itself to growing in pots and indoors. A very tasty and invigorating juice is extracted from the fruits. It's one of the favorite treats for fowls and poultry animals. 
+
+animaliDOC|stpX=86|stpXpg2=403|WriteLayer=screen|sceneBL=splash|startX=100|startY=35|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaAnimals|double=false|startX2=565|skip=false|allignPG2=center
+*|image=copertinaAnimals
+*|image=pagina2pico|text= @RATTUS PICONICUS \ \ Commonly called "Pico", these rodents belong to the very rare family of oviparous mammals and have recently been domesticated. Although rather aggressive in nature, a specimen born in captivity can be effectively trained by exploiting its highly sensitive sense of smell.
+*|double=true|image=libroUCCpgBlank|text= \ Emitting this mixture of aromas close to it, for example, will make the animal follow you faithfully: \ stp_seguimi/56 \ This fragrance, on the other hand, is interpreted by the Pico as a request for assistance: \ stp_aiutami/56 \
+*|text= \ When the Pico smells it, it almost instantly will be able to understand the needs of those around, and will do everything possible to help. Some theories, in fact, hypothesize that this particular species possesses telepathic faculties. These skills can prove to be very useful in different situations.
+*|skip=true|image=pagina1pico|text= \ For example, you just need to make it sniff an object and then start him on a search via this aromatic sequence \ stp_cerca/56 \ to turn the Rattus Piconicus into an excellent bloodhound.
+
+append|paginaVespe1|animaliDOC|*|image=paginaVespe1|text= @VESPULA MELLIFERA \ Considered the largest existing species of vespids, if in an environment with different types of flowers, it proves to be an exceptional pollinator. It is strongly attracted to pastry aromas such as these: \ stp_chiamaV/56 \ It is advisable not to grab it with your bare hands, as it is very poisonous.
+append|paginaVespe2|animaliDOC|*|image=paginaVespe2|text= Predominantly carnivorous insect, predator of other insects, lives in large colonies. Nearby a swarm, it is recommended to spread a relaxing aroma such as the following: \ stp_addormentaV/56 \ to be sure the wasps get back inside their nest. Only in this way it will be possible to harvest their precious aromatic honey.
+
+letteraMandrakeDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=134|startY=60|startY2=40|spazioDisp=270|spazioDisp2=230|adjust=3|font=stamp|singolo=false|allign=left|image=lettera|double=false|startX2=425|skip=false|allignPG2=center
+*|text= I have now lost my battle against the mandrake spirit. I am exhausted, but I still can't do without it. It's a demon that will never leave me and that I cannot defeat. But I'm not giving up, I'm not ready yet. I threw my last bottle into the cellar storage and once it was closed I destroyed the key.
+*|text= Mandrake Spirit is now out of my reach. I think I can rely on a few days of lucidity. \ I hope so, I hope so, I hope so. \ \ @Augustus Blumenthal.
+
+ricettaDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=400|startY=25|startY2=25|spazioDisp=360|spazioDisp2=375|adjust=0|font=stamp|singolo=true|allign=center|image=foglioBIG|double=false|startX2=225|skip=false|allignPG2=center
+*|text= @THE FORGOTTEN FLAVOR \ \ To obtain the legendary Forgotten Flavor you need 9 servings of the secret ingredients, which must be assembled by carefully following these directions: \ \ - there can never be 2 consecutive identical ingredients. \ \ - only one ingredient can be used 3 times, once at the beginning and once at the end, and it cannot be a spirit. \ \ - use only 1 portion of Licorice, right in the middle.
+*|text= \ - only one ingredient will have 2 servings, and this can never be a juice. \ \ - Jam can only be found between Berry juice and Mandrake Spirit. \ \ - Berry juice can only be used after a serving of Honey. \ \ - Mandrake Spirit can never be used before honey, which can never stay before or after a serving of jam. \ \ - Judas Mango juice should never be used after Honey.
+
+
+istruzioniPmDOC|stpX=center|WriteLayer=istruzioni|sceneBL=splash|startX=140|startY=30|spazioDisp=180|spazioDisp2=660|adjust=1|font=stamp|singolo=invisibile|allign=center|image=invisibile|double=false|startX2=91|startY2=338|skip=false|allignPG2=left
+*|text= \ Serve a sweet to all diners, but be careful not to give them more than one, or they will die... \ stp_muffin/121
+
+BingredientiDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=400|startY=40|startY2=60|spazioDisp=340|adjust=3|font=stamp|singolo=false|allign=center|image=foglioBIGING|double=false|startX2=425|skip=false|allignPG2=center
+*|text= @THE FORGOTTEN FLAVOR \ \ Ingredients: \ \ Vespula Honey, \ Seasoned Jam, \ Licorice powder, \ Judas Mango Juice, \ Mandrake Spirit, \ Juicy Blueberry Juice.

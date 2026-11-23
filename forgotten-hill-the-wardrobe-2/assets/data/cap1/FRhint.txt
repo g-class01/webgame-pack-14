@@ -1,0 +1,24 @@
+
+ Il manque quelque chose
+ SÃ©lectionnez ou fermez le menu des astuces
+ Cet objet peut vous aider, vÃ©rifiez l'inventaire. 
+ Cet element peut vous aider. Observez-le attentivement.
+ VÃ©rifiez cet emplacement attentivement.
+ 
+ 
+ 
+ Ã‰coutez lâ€™histoire que Waylon raconteâ€¦
+ Essayez dâ€™imiter le son jouÃ© par le dÃ©monâ€¦
+ Amenez le chevalier Ã  sa destination en frappant tous les monstres
+ 
+ 
+ 
+ 
+ 
+ 
+
+|piano11| Les panneaux muraux reprÃ©sentent les touches du piano... |
+|giraGemme1| Cet element peut vous aider. Observez-le attentivement. |
+|storiella1| La dÃ©coration des lits correspond aux piÃ¨ces. Or Ã  gauche, argent Ã  droite... |
+|cassaArmadio1| Cet objet peut vous aider, vÃ©rifiez l'inventaire. |
+|cassaArmadio2| Avec le bon Ã©clairage, vous trouverez la solution... |

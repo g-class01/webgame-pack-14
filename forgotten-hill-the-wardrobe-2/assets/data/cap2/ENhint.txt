@@ -1,0 +1,47 @@
+
+ Something is missing
+ Select hint or close the hint menu
+ This object can help you. Check your inventory.
+ This item can help you. Check it carefully.
+ Check this location carefully...
+ You will find important clues in this book.
+ 
+ Swap the tiles so that all lines match.
+ Use the lamp to make the birds' shadows match their silhouettes.
+ Listen carefully to the story the butler tells you.
+ This object can help you. Check your inventory.
+ Follow the lines to find the wrong card.
+ Fill all the spaces with the muffins without ever overlapping them.
+ Check the book to find who can help you with the clock.
+ 
+ 
+ 
+|hintPuzRighe1| The first row goes like this. Can you continue on alone?|
+|puzNave1| Press the tiles on the wall imitating the ship's course.|
+|anatraPrimo1| You will find important clues in this book.|
+|anatraPrimo2| Play this sequence with the call to call the duck.|
+|anatraFame1| It looks like the duck is hungry.|
+|anatraFame2| Check this location carefully...|
+|hintLangAnatre1| The duck knows the words of thanks...|
+|hintLangAnatre2| These are the words of thanks, use the duck call to say them.|
+|PuzZampe1| Check that length and inclination of all parts match the clue.|
+|corvese1| Check the book to translate the language of ducks into the crow language.|
+|corvese2| Do this sequence with the duck call to answer the butler.|
+|rosaRossa1| Check this location carefully...|
+|rosaRossa2| Dip the brush in blood to paint the roses red.|
+|puzPiantaSfiori1| Arrange the flowers following the directions in the limerick.|
+|puzPiantaSfiori2| Arrange the flowers on the vines this way.|
+|richiamaCorvo1| Check the book to understand how to call the horned raven.|
+|richiamaCorvo2| Do this sequence with the duck call to call the horned raven.|
+|ripetiCorvo1| Repeat what the crow tells by translating from the ducks language.|
+|puzzleFrutta1| Use the decoder and the symbols on the board to find the right combination.|
+|ingressoMartha1| Check the limerick to find Martha's favorite flavor combinations.|
+|primoPico1| Check the book to understand how to make Pico follow you.|
+|picoAiuto1| Check the book to get help from Pico.|
+|picoNusma1| Make Pico sniff the oven mitt and then ask him for help.|
+|picoMandrake1| Bring Pico here and ask for help.|
+|chiamaVespa1| Check the book to understand how to call the honey wasp.|
+|hintCalmaApi1| Check the book to understand how to calm the wasps.|
+|forgottenTaste1| We help you creating the Forgotten Flavor: you will need 3 servings of honey...|
+|forgottenTaste2| Arrange the ingredients this way to get the Forgotten Flavor.|
+|pozzaHypno1| Make the flavor with hypnotic effects and give it to the butler.|

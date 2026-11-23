@@ -1,0 +1,6 @@
+bigliettoSpecchioPOP|400|200|400|a| A luz Ã© sempre reveladora.
+
+indizioNavePOP|400|280|350|a| Um bom capitÃ£o sempre segue o curso |splash
+puzZPOP|400|280|350|a||splash
+indizFruttaPOP|400|280|350|a||splash
+ipnoticoPOP|400|90|500|a| Quase consegui recriar o Sabor Esquecido. Acho que estou faltando alguns ingredientes, mas essa receita chega muito perto. Ã‰ uma pena que tenha um poderoso efeito hipnÃ³tico. |splash

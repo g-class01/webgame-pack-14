@@ -1,0 +1,24 @@
+
+ Ti manca qualcosa 
+ Seleziona indizio o chiudi il menu indizi.
+ Questo oggetto puÃ² aiutarti. Controlla il tuo inventario. 
+ Questo elemento puÃ² aiutarti. Esaminalo bene. 
+ Esamina bene questo ambiente.
+ 
+ 
+ 
+ Ascolta la storia che racconta Waylon...
+ Cerca di imitare ciÃ² che suona il folletto
+ Porta il cavaliere a destinazione colpendo tutti i mostri
+ 
+ 
+ 
+ 
+ 
+ 
+
+|piano11| I pannelli della parete rappresentano i tasti dei pianoforte... |
+|giraGemme1| Questo elemento puÃ² aiutarti. Esaminalo bene. |
+|storiella1| Le decorazioni del letto rappresentano le monete. Oro a sinistra, argento a destra... |
+|cassaArmadio1| Questo oggetto puÃ² aiutarti. Controlla il tuo inventario. |
+|cassaArmadio2| Con la giusta illuminazione, troverai la soluzione... |

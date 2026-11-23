@@ -1,0 +1,16 @@
+chiaveSpecchio|chiave
+chiaveT|chiave
+bigliettoSpecchioPOP|foglietto
+cacciavite|cacciavite
+candela|candela
+candelabro|candelabro
+chiaveArmadio|chiave
+chiaveCam|chiave
+chiaveSTarmadio|chiave
+coltello|coltello
+fiammiferi|fiammiferi
+fogliettoPOP|foglietto
+gemma|gemma
+medicina|medicina
+serratOBJ|chiavistello
+

@@ -1,0 +1,72 @@
+
+testDOC|stpX=86|WriteLayer=screen|sceneBL=Corr1C2|startX=200|startY=30|startY2=30|spazioDisp=200|spazioDisp2=200|adjust=5|font=hand|singolo=true|allign=center|image=volantino|if_LENGUAGE_IT_adjust_8|double=false|startX2=600|skip=false|allignPG2=center
+*|if_LENGUAGE_IT_adjust_8|text= GRANDE DEBUTTO \ Nuovo spettacolo, gioia \ per grandi e piccini \ Accorette numerosi!
+*|double=true|text=cacca cacca cacca \ stp_b/50 \ ca  ccacacca caccacacca caccacac    ca cacca caccacaccaca   cca cacca cacca caccacacca cacca caccacacca cacca
+*|text=pipi pipipipi pipi pipi \ stp_c/50 \ pipi pipipipipipi pipi pipi pipi pipi pipipipi pipipipipi    pipipi pipi pipipipi pipi pipipipi pipi pipi
+*|skip=true|image=libroFilastrocca|singolo=false|text= di amarti tanto, \  stp_a/96 \ vorrei che mi regalassi \ stp_b/50 \ un abbraccio \ stp_c/50 \ e mi tenessi sempre vicino a te 
+*|startX=600|font=stamp|adjust=2|text= disse e spostÃ² lo sguardo sulla VastitÃ  del Mondo.
+
+
+diarioDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=98|startY=40|startY2=40|spazioDisp=300|spazioDisp2=280|adjust=3|font=hand|singolo=false|allign=left|image=liario2|double=false|startX2=425|skip=false|allignPG2=left
+*|image=copertinaDiario
+*|image=diarioPG2|text= Caro diario, \ sono felicissima, ho finalmente trovato il Mio mondo! LÃ¬ tutto Ã¨ bellissimo e proprio come voglio io, e poi Ã¨ un segreto! Ho incontrato uno strano e simpatico
+*|image=diarioPG2|text= maggiordomo che mi ha spiegato un sacco di cose divertenti. Solo usando una chiave speciale si puÃ² andare nel mio mondo, Ã¨ super sicuro!
+
+libroUccelliDOC|stpX=86|stpXpg2=403|WriteLayer=screen|sceneBL=splash|startX=100|startY=35|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaUCC|double=false|startX2=570|skip=false|allignPG2=center
+*|
+*|image=libroUCCpg3|text= @LE ANATRE \ Le anatre sono animali sociali. Per comunicare usano le vocalizzazioni, che possiamo graficamente rappresentare con questi simboli: stp_a/73 \ Spesso utilizzano questo intercalare, senza un preciso significato: stp_b/48 \
+*|image=libroUCCpg2|text= Per richiamare le anatre si Ã¨ rivelata molto efficace questa sequenza che, se opportunamente tradotta, funziona con tutti i volatili: \ stp_chiamata/70 \ Quest'altra sequenza invece, significa che l'anatra Ã¨ affamata: stp_fame/120 \
+*|double=true|image=libroUCCpgBlank|text= @I CORVI  \ I corvi sono animali estremamente intelligenti e con cui Ã¨ molto interessante comunicare. Rappresentiamo cosÃ¬ i loro versi: \ stp_simbC/48 \  \ che sono suoni piÃ¹ rauchi ed aspri di quelli degli altri uccelli. I corvi non usano intercalari, ogni loro suono ha un senso.
+*|text= Il loro linguaggio funziona in modo opposto ripetto a quello delle anatre. \ stp_reverse/112 \ I suoni si leggono dal basso verso l'alto e da destra verso sinistra. \ stp_DXSX/82 \ 
+*|skip=true|image=libroUCCpg4|text= Nel linguaggio dei corvi due suoni singoli ravvicinati equivalgono ad un suono composito delle anatre. I suoni compositi dei corvi invece sono scissi in due suoni singoli delle anatre. \ stp_fusion/163 \ 
+
+append|paginaORO|libroUccelliDOC|*|image=PGuccelloORO|text= @L'UCCELLO D'ORO  \ Uccello della famiglia degli anatidi, estremamente raro e forse quasi estinto. Deve il suo nome al fatto che, se correttamente incitato, riesce a fiutare e trovare qualsiasi oggetto d'oro nelle vicinanze. \ Emette questa sequenza \ stp_aiuto/58 \ \ come richiesta di aiuto.
+append|paginaCorvo|libroUccelliDOC|*|image=PGcorvoCorna|text= @CORVUS CORNUTENSIS \ Il corvo cornuto Ã¨ un uccello passeriforme della famiglia dei Corvidi.  Di indole estremamente aggressiva, utilizza un linguaggio simile a quello dei corvi comuni ma emettendo suoni opposti: \ stp_invCorna/131 \
+append|paginaCorvo2|libroUccelliDOC|*|image=PGcorvoCorna2|text= Quando incontra uno sconosciuto emette un tipico verso per verificarne l'affidabilitÃ . In casi come questo la cosa migliore Ã¨ rispondere nello stesso modo, o il corvo cornuto potrebbe dare sfogo alla sua innata e feroce aggressivitÃ , diventando molto pericoloso.
+
+fioriDOC|stpX=center|WriteLayer=screen|sceneBL=splash|startX=400|startY=35|startY2=40|spazioDisp=250|spazioDisp2=250|adjust=1|font=stamp|singolo=true|allign=center|image=fioriDocu|double=false|startX2=425|skip=false|allignPG2=center
+*|text= CINQUE BAMBINE \  \ Una bambina il gusto di caffÃ¨ ama un mondo, e di fiori gialli prende il secondo. \ stp_caffe/40 \ Una bambina ama il cioccolato, e di fiori viola prende quello a destra tutto a lato. \ stp_ciocco/40 
+*|text= Una bambina ama la vaniglia, e di fiori arancioni quello in mezzo si piglia. \ stp_vaniglia/40 \ Una bambina ama la cannella, e di fiori azzurri prende quello a sinistra, la bella. \ stp_cannella/40 
+*|text= Un'altra bambina ama il cioccolato, e di rose rosse prende quello che Ã© restato. \ stp_ciocco/40 
+
+letteraKeyDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=125|startY=45|startY2=60|spazioDisp=300|adjust=1|font=hand|singolo=false|allign=left|image=letteraKeyDOC|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Cara Abby, \ sono impaziente di mostrarti il mio Mondo, Ã¨ fantastico! Per entrare devi portare una ricetta di un dolce squisito. \ Spero verrai presto. \  @Martha.
+
+letteraDOC|stpX=86|sceneBL=splash|WriteLayer=screen|startX=125|startY=45|spazioDisp=300|adjust=1|font=hand|singolo=false|allign=left|image=lettera|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Cara Abby, \ sono impaziente di mostrarti il mio Mondo, Ã¨ fantastico! Per entrare devi portare una ricetta di un dolce squisito. \ Spero verrai presto. \  @Martha.
+
+giornaleDOC|stpX=86|WriteLayer=giornale|sceneBL=splash|startX=280|startY=125|spazioDisp=450|spazioDisp2=655|adjust=2|font=stamp|singolo=invisibile|allign=left|image=invisibile|double=true|startX2=91|startY2=328|skip=false|allignPG2=left
+*|double=true|text= Oggi il nostro cuoco vi propone la ricetta di un dolce veramente squisito, la Torta Cuore d'Angelo. Facile da preparare e con ingredienti semplici e genuini stupirÃ  grandi e piccini. Prendete una tazza di purea di genziana selvatica, un cucchiaio di latte di yak condensato, 4 uova di pulcinella di mare, una tazza di farina di
+*|text= nocciolo di olive, un pizzico di polvere di peperoncino abanero, tre cucchiai di melassa di barbabietola, una grattata di aglio
+
+ingredientiDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=100|startY=40|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaING|double=false|startX2=425|skip=false|allignPG2=left
+*|image=copertinaING
+*|image=paginaSchifrutto|text= @MANGO DI GIUDA \ \ Pianta dal portamento ricadente, anche detta Pianta senza Fiori da una antica storia per bambini. La sua naturale assenza di fiori rende il suo frutto preziosissimo: soltanto quando si verificano una serie di precise condizioni, un singolo mango viene prodotto. Da esso si estrae un succo profumatissimo e delizioso.
+*|image=paginaMandrake|text= @SPIRITO DI MANDRAGORA \ \ Distillato ad alta gradazione alcolica ottenuto dalla fermentazione della radice di mandragora. Un tempo piuttosto diffuso, la credenza che le mandragore contengano lo spirito dei defunti e l'alto effetto di assuefazione, hanno segnato il declino della produzione di questo liquore tipico di Forgotten Hill.
+*|image=paginaMiele|text= @MIELE VESPULATIS \ \ Pregiato miele multiflora prodotto dalla Vespula Mellifera. Il suo gusto forte ed aromatico lo rende estremamente versatile in cucina e in pasticceria. Una vera prelibatezza preziosa e ricercata.
+*|image=paginaBacche|text= @MYRTILLUS SUCULENTUS \ \ Arbusto da frutto dal portamento a cespuglio che produce piccole bacche di colore blu. Pianta robusta che si presta facilmente alla coltivazione in vaso e all'interno. Dai frutti si estrae un succo molto saporito e rinvigorente. E' uno dei cibi preferiti da gallinacei ed animali da cortile.
+
+animaliDOC|stpX=86|stpXpg2=403|WriteLayer=screen|sceneBL=splash|startX=100|startY=35|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaAnimals|double=false|startX2=565|skip=false|allignPG2=center
+*|image=copertinaAnimals
+*|image=pagina2pico|text= @RATTUS PICONICUS \ \ Comunemente chiamato Pico, questo roditore appartenente alla rarissima famiglia dei mammiferi ovipari, Ã¨ stato recentemente addomesticato. Sebbene piuttosto aggressivo in natura, un esemplare nato in cattivitÃ  puÃ² essere efficacemente addestrato, sfruttando il suo sensibilissimo olfatto.
+*|double=true|image=libroUCCpgBlank|text= \ Emettere questa sequenza di aromi in sua presenza, ad esempio, farÃ  sÃ¬ che l'animale vi segua fedelmente: \ stp_seguimi/56 \ Questa fragranza, invece, Ã¨ interpretata come una richiesta di aiuto: \ stp_aiutami/56 \
+*|text= \ Quando il Pico la percepirÃ  riuscirÃ  quasi istantaneamente a capire di cosa ha bisogno chi gli Ã¨ accanto, e farÃ  il possibile per aiutarlo. Alcune teorie infatti, ipotizzano che questa particolare specie possegga facoltÃ  telepatiche. Queste sue doti posso rivelarsi molto utili in diversi situazioni.
+*|skip=true|image=pagina1pico|text= \ Ãˆ possibile ad esempio fargli annusare un oggetto e successivamente inviargli uno stimolo di ricerca tramite questa sequenza aromatica: \ stp_cerca/56 \ per far sÃ¬ che il Rattus Piconicus si tramuti in un eccellente segugio.
+
+append|paginaVespe1|animaliDOC|*|image=paginaVespe1|text= @VESPULA MELLIFERA \ Considerata la piÃ¹ grande specie di vespidi esistente, se si trova in un ambiente con fiori di tipo diverso, si dimostra un'eccezionale impollinatrice. E' fortemente attirata dagli aromi di pasticceria come questi: \ stp_chiamaV/56 \ Si consiglia di non afferrarla a mani nude in quanto molto velenosa.
+append|paginaVespe2|animaliDOC|*|image=paginaVespe2|text= Insetto prevalentemente carnivoro, predatore di altri insetti, vive in colonie numerose. In presenza di uno sciame, si consiglia di emettere un aroma rilassante come il seguente: \ stp_addormentaV/56 \ per far sÃ¬ che le vespe rientrino nel proprio nido. Solo cosÃ¬ sarÃ  possibile raccogliere il loro pregiato miele aromatico.
+
+letteraMandrakeDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=134|startY=60|startY2=40|spazioDisp=270|spazioDisp2=230|adjust=3|font=stamp|singolo=false|allign=left|image=lettera|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Ormai ho perso la mia battaglia contro lo Spirito di Mandragora. Sono ridotto allo stremo, ma ancora non riesco a farne a meno. E' un demone che non mi lascierÃ  mai e che non posso sconfiggere. Ma non mi arrendo ancora, non sono ancora pronto. Ho lanciato la mia ultima bottiglia nel deposito in cantina 
+*|text= e una volta chiuso ho distrutto la chiave. Lo Spirito di Mandragora Ã¨ adesso fuori della mia portata. Credo di poter contare su qualche giorno di luciditÃ . \ Lo spero, lo spero, lo spero. \ \ @Augustus Blumenthal.
+
+ricettaDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=400|startY=25|startY2=25|spazioDisp=360|spazioDisp2=375|adjust=0|font=stamp|singolo=true|allign=center|image=foglioBIG|double=false|startX2=225|skip=false|allignPG2=center
+*|text= @IL SAPORE DIMENTICATO \  \ Per ottenere il leggendario Sapore Dimenticato occorrono 9 porzioni degli ingredienti segreti, che andranno assemblati seguendo scrupolosamente queste indicazioni: \  \ - non potranno mai esserci 2 ingredienti uguali consecutivi. \  \ - un solo ingrediente puÃ² essere usato 3 volte, di cui una all'inizio e una alla fine, e non puÃ² essere un liquore.
+*|text= \ - utilizzare 1 sola porzione di Liquirizia, esattamente a metÃ . \  \ - un solo ingrediente sarÃ  presente con 2 porzioni, e questo non potrÃ  mai essere un succo. \  \ - la Marmellata puÃ² trovarsi soltanto tra il Succo di Mirtilli e lo Spirito di Mandragora. \  \ - il Succo di Mirtilli puÃ² essere usato solo dopo una porzione di Miele.
+*|text= \ - lo Spirito di Mandragora non puÃ² mai essere usato prima del Miele, che a sua volta non potrÃ  mai stare mai prima o dopo una porzione di Marmellata. \  \ - il succo di Mango di Giuda non va mai utilizzato dopo il Miele.
+
+istruzioniPmDOC|stpX=center|WriteLayer=istruzioni|sceneBL=splash|startX=140|startY=30|spazioDisp=180|spazioDisp2=660|adjust=1|font=stamp|singolo=invisibile|allign=center|image=invisibile|double=false|startX2=91|startY2=338|skip=false|allignPG2=left
+*|text= \ Servi un dolcetto a tutti i commensali, ma stai attento a non dargliene piÃ¹ di uno o moriranno... \ stp_muffin/121
+
+BingredientiDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=400|startY=40|startY2=60|spazioDisp=340|adjust=3|font=stamp|singolo=false|allign=center|image=foglioBIGING|double=false|startX2=425|skip=false|allignPG2=center
+*|text=  @IL SAPORE DIMENTICATO \ \ Ingredienti: \ \ Miele di Vespula, \ Marmellata stagionata, \ Liquirizia in polvere, \ Succo del Mango di Giuda, \ Spirito di Mandragora, \ Succo di Mirtilli Succulenti.

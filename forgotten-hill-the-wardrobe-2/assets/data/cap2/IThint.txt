@@ -1,0 +1,47 @@
+
+ Ti manca qualcosa.
+ Seleziona indizio o chiudi il menu indizi.
+ Questo oggetto puÃ² aiutarti. Controlla il tuo inventario.
+ Questo elemento puÃ² aiutarti. Esaminalo bene.
+ Esamina bene questo ambiente.
+ In questo libro troverai indizi importanti
+ 
+ Scambia i tasselli per far combaciare tutte le linee
+ Usa la lampada per far sÃ¬ che le ombre degli uccelli combacino con le loro sagome
+ Ascolta attentamente la storia che il maggiordomo ti racconta
+ Questo oggetto puÃ² aiutarti. Controlla il tuo inventario.
+ Segui le linee per trovare la carta sbagliata.
+ Occupa tutti gli spazi con i muffin senza mai sovrapporli
+ Consulta il libro per trovare chi ti puÃ² aiutare con l'orologio.
+ 
+ 
+ 
+|hintPuzRighe1| La prima fila va messa cosÃ¬, riesci a proseguire da solo?|
+|puzNave1| Premi i tasselli sulla parete imitando la rotta della nave sull'indizio|
+|anatraPrimo1| In questo libro troverai indizi importanti|
+|anatraPrimo2| Esegui questa sequenza col richiamo per chiamare l'anatra|
+|anatraFame1| Sembra che l'anatra sia affamata|
+|anatraFame2| Esamina bene questo ambiente.|
+|hintLangAnatre1| L'anatra conosce quali sono le parole di ringraziamento|
+|hintLangAnatre2| Esegui questa sequenza col richiamo per le anatre|
+|PuzZampe1| Controlla che lunghezza ed inclinazione di tutte le parti corrispondano con l'indizio|
+|corvese1| Consulta il libro per tradurre in corvese il linguaggio delle anatre|
+|corvese2| Esegui questa sequenza col richiamo per anatre per rispondere al maggiordomo|
+|rosaRossa1| Esamina bene questo ambiente.|
+|rosaRossa2| Intingi il pennello nel sangue per pitturare le rose di rosso|
+|puzPiantaSfiori1| Disponi i fiori seguendo le indicazioni della filatrocca|
+|puzPiantaSfiori2| Disponi in quest'ordine i fiori sulle liane|
+|richiamaCorvo1| Consulta il libro per capire come richiamare il corvo cornuto|
+|richiamaCorvo2| Esegui questa sequenza col richiamo per anatre richiamare il corvo cornuto|
+|ripetiCorvo1| Ripeti quello che ti dice il corvo traducendo dal linguaggio delle anatre|
+|puzzleFrutta1| Usa il decodificatore e i simboli nella bacheca per trovare la giusta combinazione |
+|ingressoMartha1| Consulta la filastrocca per trovare la combinazione di aromi preferita da Martha|
+|primoPico1| Consulta il libro per capire come farti seguire dal Pico|
+|picoAiuto1| Consulta il libro per farti aiutare dal Pico.|
+|picoNusma1| Fai annusare il guanto da forno al Pico e poi chiedigli aiuto.|
+|picoMandrake1| Porta qui il Pico e fatti aiutare.|
+|chiamaVespa1| Consulta il libro per capire come richiamare la vespa mellifera.|
+|hintCalmaApi1| Consulta il libro per capire come calmare le api.|
+|forgottenTaste1| Ti diamo un aiuto per creare il sapore dimenticato: ti serviranno 3 porzioni di miele!|
+|forgottenTaste2| Disponi in questo modo gli ingredienti per ottenere il sapore dimenticato.|
+|pozzaHypno1| Prepara il sapore con effetti ipnotici da dare al maggiordomo.|

@@ -1,0 +1,73 @@
+
+testDOC|stpX=86|WriteLayer=screen|sceneBL=Corr1C2|startX=200|startY=30|startY2=30|spazioDisp=200|spazioDisp2=200|adjust=5|font=hand|singolo=true|allign=center|image=volantino|if_LENGUAGE_IT_adjust_8|double=false|startX2=600|skip=false|allignPG2=center
+*|if_LENGUAGE_IT_adjust_8|
+*|double=true|
+*|
+*|skip=true|image=libroFilastrocca|singolo=false|
+*|startX=600|font=stamp|adjust=2|
+
+
+diarioDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=98|startY=40|startY2=40|spazioDisp=300|spazioDisp2=280|adjust=3|font=hand|singolo=false|allign=left|image=liario2|double=false|startX2=425|skip=false|allignPG2=left
+*|image=copertinaDiario
+*|image=diarioPG2|text= \ Querido diÃ¡rio, \ estou tÃ£o feliz, finalmente encontrei Meu Mundo! Tudo Ã© lindo lÃ¡ e do jeito que eu quero, e isso Ã© segredo! Eu conheci um cara estranho e legal
+*|image=diarioPG2|text= \ mordomo que me explicou muitas coisas engraÃ§adas. Somente usando uma chave especial vocÃª pode entrar no meu mundo, Ã© super seguro!
+
+libroUccelliDOC|stpX=86|stpXpg2=403|WriteLayer=screen|sceneBL=splash|startX=100|startY=35|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaUCC|double=false|startX2=570|skip=false|allignPG2=center
+*|
+*|image=libroUCCpg3|text= @PATOS \ Patos sÃ£o animais sociais. Para se comunicar, eles usam vocalizaÃ§Ãµes, que podemos representar graficamente com estes sÃ­mbolos: stp_a/73 \ Eles costumam usar este palavra de enchedor, sem um significado preciso: stp_b/48 \
+*|image=libroUCCpg2|text= Para chamar os patos esta sequÃªncia tem se mostrado muito eficaz que, traduzida corretamente, funciona com todos os pÃ¡ssaros: \ stp_chiamata/70 \ Esta outra sequÃªncia, por outro lado, significa que o pato estÃ¡ com fome: stp_fame/120 \
+*|double=true|image=libroUCCpgBlank|text= @CORVOS \ Os â€‹corvos sÃ£o animais extremamente inteligentes e muito interessantes de se comunicar. Ã‰ assim que representamos seus gritos: \ stp_simbC/48 \ \ que sÃ£o sons mais estridentes e Ã¡speros do que os de outros pÃ¡ssaros. Os corvos nÃ£o usam camadas intermediÃ¡rias, todos os seus sons fazem sentido.
+*|text= \ Sua linguagem funciona de maneira oposta Ã  dos patos. \ stp_reverse/112 \ Os â€‹â€‹sons sÃ£o lidos de baixo para cima e da direita para a esquerda. \ stp_DXSX/82 \
+*|skip=true|image=libroUCCpg4|text= Na linguagem dos corvos, dois sons prÃ³ximos sÃ£o equivalentes a um som composto de patos. Os sons compostos de corvos, por outro lado, sÃ£o divididos em dois sons Ãºnicos de patos. \ stp_fusion/163 \
+
+append|paginaORO|libroUccelliDOC|*|image=PGuccelloORO|text= @ O PÃSSARO DE OURO \ Ave da famÃ­lia anatidae, extremamente rara e talvez quase extinta. Seu nome deve-se ao fato de que, se devidamente cutucado, pode farejar e encontrar qualquer objeto de ouro nas proximidades. \ Exibe esta seqÃ¼Ãªncia \ stp_aiuto/58 \ \ como um pedido de ajuda.
+append|paginaCorvo|libroUccelliDOC|*|image=PGcorvoCorna|text= @CORVUS CORNUTENSIS \ O corvo com chifres Ã© uma ave passeriforme da famÃ­lia Corvid. Extremamente agressivo por natureza, ele usa uma linguagem semelhante Ã  dos corvos comuns, mas emitindo sons opostos: \ stp_invCorna/131 \
+append|paginaCorvo2|libroUccelliDOC|*|image=PGcorvoCorna2|text= Ao encontrar um estranho, ele emite um verso tÃ­pico para verificar sua confiabilidade. Em casos como este o melhor Ã© responder da mesma forma, ou o corvo chifrudo poderia dar vazÃ£o Ã  sua agressÃ£o inata e feroz, tornando-se muito perigoso.
+
+fioriDOC|stpX=center|WriteLayer=screen|sceneBL=splash|startX=400|startY=35|startY2=40|spazioDisp=250|spazioDisp2=250|adjust=1|font=stamp|singolo=true|allign=center|image=fioriDocu|double=false|startX2=425|skip=false|allignPG2=center
+*|text= CINCO MENINAS \  \ Uma menina ama o sabor do cafÃ© um mundo, e com as flores amarelas leva o segundo. \ stp_caffe/40 \ Uma menina gosta de chocolate, e as flores roxas coloca Ã  direita sem alicate. \ stp_ciocco/40 
+*|text= Uma menina o cheiro de baunilha adora, e a flor laranja estÃ¡ no meio agora. \ stp_vaniglia/40 \ Uma menina adora canela, e de flores azuis tira a da esquerda, a donzela. \ stp_cannella/40 
+*|text= Outra menina adora chocolate, no que sobrou ele coloca uma rosa escarlate. \ stp_ciocco/40 
+
+letteraKeyDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=120|startY=40|startY2=60|spazioDisp=310|adjust=0|font=hand|singolo=false|allign=left|image=letteraKeyDOC|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Querida Abby, \ estou ansiosa para mostrar meu mundo a vocÃª, Ã© Ã³timo! Para entrar Ã© necessÃ¡rio trazer uma receita de uma sobremesa requintada. Eu espero que vocÃª venha logo. \ @Martha.
+
+letteraDOC|stpX=86|sceneBL=splash|WriteLayer=screen|startX=120|startY=40|spazioDisp=310|adjust=0|font=hand|singolo=false|allign=left|image=lettera|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Querida Abby, \ estou ansiosa para mostrar meu mundo a vocÃª, Ã© Ã³timo! Para entrar Ã© necessÃ¡rio trazer uma receita de uma sobremesa requintada. Eu espero que vocÃª venha logo. \ @Martha.
+
+giornaleDOC|stpX=86|WriteLayer=giornale|sceneBL=splash|startX=280|startY=125|spazioDisp=450|spazioDisp2=655|adjust=2|font=stamp|singolo=invisibile|allign=left|image=invisibile|double=true|startX2=91|startY2=328|skip=false|allignPG2=left
+*|double=true|text= Hoje nosso cozinheiro oferece a receita de uma sobremesa verdadeiramente requintada, o Bolo CoraÃ§Ã£o de Anjo. FÃ¡cil de preparar e com ingredientes simples e genuÃ­nos, vai surpreender a todos. Pegue uma xÃ­cara de purÃª de genciana selvagem, uma colher de sopa de leite condensado de iaque, 4 ovos de papagaio-do-mar, uma
+*|text= xÃ­cara de farinha de avelÃ£ de azeitonas, uma pitada de pimenta em pÃ³ abanero, trÃªs colheres de sopa de melaÃ§o de beterraba,
+
+ingredientiDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=100|startY=40|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaING|double=false|startX2=425|skip=false|allignPG2=left
+*|image=copertinaING
+*|image=paginaSchifrutto|text= @MANGA DE JUDAS \ \ Planta com o hÃ¡bito caÃ­do, tambÃ©m chamada de Planta sem Flores, de uma antiga histÃ³ria infantil. Sua ausÃªncia natural de flores torna seu fruto muito precioso: somente quando uma sÃ©rie de condiÃ§Ãµes precisas sÃ£o satisfeitas, uma Ãºnica manga Ã© produzida. Dela se extrai um suco muito perfumado e delicioso.
+*|image=paginaMandrake|text= @ESPÃRITO DE MANDRÃGORA \ \ Destilado com alto teor alcoÃ³lico obtido da fermentaÃ§Ã£o da raiz de mandrÃ¡gora. Antes bastante comum, a crenÃ§a de que as mandrÃ¡goras contÃªm o espÃ­rito dos mortos e o alto efeito aditivo marcou o declÃ­nio na produÃ§Ã£o desse tÃ­pico licor de Forgotten Hill.
+*|image=paginaMiele|text= @MEL VESPULATIS \ \ Mel precioso multiflora produzido por Vespula Mellifera. O seu sabor forte e aromÃ¡tico torna-o extremamente versÃ¡til na cozinha e na pastelaria. Uma verdadeira iguaria preciosa e requintada.
+*|image=paginaBacche|text= @MYRTILLUS SUCULENTUS \ \ Arbusto frutÃ­fero de hÃ¡bito espesso que produz pequenas bagas azuis. Planta robusta que facilmente se presta a crescer em vasos e dentro de casa. Das frutas Ã© extraÃ­do um suco muito saboroso e revigorante. Ã‰ um dos alimentos preferidos de aves e aves domÃ©sticas.
+
+animaliDOC|stpX=86|stpXpg2=403|WriteLayer=screen|sceneBL=splash|startX=100|startY=35|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaAnimals|double=false|startX2=565|skip=false|allignPG2=center
+*|image=copertinaAnimals
+*|image=pagina2pico|text= @RATTUS PICONICUS \ \ Comumente chamado de Pico, este roedor pertencente Ã  rara famÃ­lia dos mamÃ­feros ovÃ­paros foi recentemente domesticado. Embora de natureza bastante agressiva, um espÃ©cime nascido em cativeiro pode ser treinado com eficÃ¡cia, explorando seu olfato altamente sensÃ­vel.
+*|double=true|image=libroUCCpgBlank|text= \ Emitir esta sequÃªncia de aromas na presenÃ§a dele, por exemplo, farÃ¡ com que o animal te siga fielmente: \ stp_seguimi/56 \ Esta fragrÃ¢ncia, por outro lado, Ã© interpretada como um pedido de ajuda: \ stp_aiutami/56 \
+*|text= \ Quando o Pico o perceber, compreenderÃ¡ quase instantaneamente o que os que o rodeiam precisam e farÃ¡ tudo o que estiver ao seu alcance para o ajudar. Na verdade, algumas teorias levantam a hipÃ³tese de que esta espÃ©cie particular possui faculdades telepÃ¡ticas. Essas habilidades podem ser muito Ãºteis em diferentes situaÃ§Ãµes.
+*|skip=true|image=pagina1pico|text= \ Por exemplo, Ã© possÃ­vel fazÃª-lo cheirar um objeto e depois enviar-lhe um estÃ­mulo de busca atravÃ©s desta sequÃªncia aromÃ¡tica: \ stp_cerca/56 \ para fazer com que o Rattus Piconicus se transforme num excelente cÃ£o de caÃ§a.
+
+append|paginaVespe1|animaliDOC|*|image=paginaVespe1|text= @VESPULA MELLIFERA \ Considerada a maior espÃ©cie de vespÃ­deo existente, se for encontrada em um ambiente com diferentes tipos de flores, mostra-se um polinizador excepcional. Ela Ã© fortemente atraÃ­da por aromas de pastelaria como estes: \ stp_chiamaV/56 \ Ã‰ aconselhÃ¡vel nÃ£o agarrar com as mÃ£os desprotegidas, pois Ã© muito venenoso.
+append|paginaVespe2|animaliDOC|*|image=paginaVespe2|text= Inseto predominantemente carnÃ­voro, predador de outros insetos, vive em inÃºmeras colÃ´nias. Na presenÃ§a de um enxame, Ã© recomendÃ¡vel emitir um aroma relaxante, como o seguinte: \ stp_addormentaV/56 \ para garantir que as vespas entrem novamente no ninho. SÃ³ assim serÃ¡ possÃ­vel colher seu precioso mel aromÃ¡tico.
+
+letteraMandrakeDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=134|startY=60|startY2=40|spazioDisp=270|spazioDisp2=230|adjust=3|font=stamp|singolo=false|allign=left|image=lettera|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Agora perdi minha batalha contra o EspÃ­rito de MandrÃ¡gora. Estou exausto, mas ainda nÃ£o consigo viver sem ele. Ele Ã© um demÃ´nio que nunca vai me deixar e que eu nÃ£o posso derrotar. Mas nÃ£o vou desistir ainda, nÃ£o estou pronto ainda. Eu joguei minha Ãºltima garrafa no armazenamento
+*|text= da adega e uma vez fechada, destruÃ­ a chave. O EspÃ­rito de MandrÃ¡gora agora estÃ¡ fora do meu alcance. Acho que posso contar com alguns dias de lucidez. \ Espero que sim, espero que sim. \ \ @Augustus Blumenthal.
+
+ricettaDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=400|startY=25|startY2=25|spazioDisp=360|spazioDisp2=375|adjust=0|font=stamp|singolo=true|allign=center|image=foglioBIG|double=false|startX2=225|skip=false|allignPG2=center
+*|text= @ O SABOR ESQUECIDO \ \ Para obter o lendÃ¡rio Sabor Esquecido, vocÃª precisa de 9 porÃ§Ãµes dos ingredientes secretos, que devem ser montados seguindo cuidadosamente estas instruÃ§Ãµes: \ \ - nunca pode haver 2 ingredientes idÃªnticos consecutivos. \ \ - apenas um ingrediente pode ser usado 3 vezes, uma no inÃ­cio e uma no final, nÃ£o podendo ser um licor.
+*|text= \ - use apenas 1 porÃ§Ã£o de AlcaÃ§uz, exatamente pela metade. \ \ - apenas um ingrediente estarÃ¡ presente com 2 porÃ§Ãµes, e isso nunca pode ser um suco. \ \ - GelÃ©ia sÃ³ pode ser encontrado entre suco de Bagas e EspÃ­rito de MandrÃ¡gora. \ \ - Suco de Bagas sÃ³ pode ser usado apÃ³s uma porÃ§Ã£o de Mel.
+*|text= \ - o EspÃ­rito de MandrÃ¡gora nunca pode ser usado antes do Mel, que por sua vez nunca pode ser antes ou depois de uma porÃ§Ã£o de GelÃ©ia. \ \ - O Suco de manga de Judas nunca deve ser usado depois do Mel.
+
+istruzioniPmDOC|stpX=center|WriteLayer=istruzioni|sceneBL=splash|startX=140|startY=30|spazioDisp=180|spazioDisp2=660|adjust=1|font=stamp|singolo=invisibile|allign=center|image=invisibile|double=false|startX2=91|startY2=338|skip=false|allignPG2=left
+*|text= \ Sirva um doce a todos os comensais, mas tome cuidado para nÃ£o dar mais de um ou eles morrerÃ£o... \ stp_muffin/121
+
+BingredientiDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=400|startY=40|startY2=60|spazioDisp=340|adjust=3|font=stamp|singolo=false|allign=center|image=foglioBIGING|double=false|startX2=425|skip=false|allignPG2=center
+*|text= @ O SABOR ESQUECIDO \ \ Ingredientes: \ \ Mel de Vespula, \ GelÃ©ia temperada, \ AlcaÃ§uz em pÃ³, \ Suco de Manga de Judas, \ EspÃ­rito de MandrÃ¡gora, \ Suco de Bagas Suculentas.
+

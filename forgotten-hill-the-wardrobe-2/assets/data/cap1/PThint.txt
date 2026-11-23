@@ -1,0 +1,23 @@
+
+ EstÃ¡ faltando alguma coisa
+ Selecione a dica ou feche o menu de dica
+ Este objeto pode ajudÃ¡-lo. Verifique seu inventÃ¡rio.
+ Este elemento pode ajudÃ¡-lo. Verifique com cuidado.
+ Verifique este local com cuidado...
+ 
+ 
+ 
+ OuÃ§a a histÃ³ria que Waylon conta...
+ Tente imitar o som que o Duende toca...
+ Traga o cavaleiro ao seu destino atingindo todos os monstros
+ 
+ 
+ 
+ 
+ 
+
+|piano11| Os painÃ©is da parede representam as teclas do piano... |
+|giraGemme1| Este elemento pode ajudÃ¡-lo. Verifique com cuidado. |
+|storiella1| As decoraÃ§Ãµes da cama ficam para as moedas. Ouro Ã  esquerda, prata Ã  direita... |
+|cassaArmadio1| Este objeto pode ajudÃ¡-lo. Verifique seu inventÃ¡rio. |
+|cassaArmadio2| Com a iluminaÃ§Ã£o certa, vocÃª encontrarÃ¡ a soluÃ§Ã£o... |

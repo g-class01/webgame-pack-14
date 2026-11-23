@@ -1,0 +1,24 @@
+
+ Algo estÃ¡ faltando
+ Selecciona una pista o cierra el menÃº de pistas
+ Este objeto puede ayudarte. Revisa tu inventario.
+ Este item puede ayudarte. revÃ­salo con cuidado.
+ Verifica este sitio cuidadosamente...
+ 
+ 
+ 
+ Escucha la historia que cuenta Waylonâ€¦
+ Intenta imitar el sonido tocado por el diablilloâ€¦
+ Lleva al caballero a su destino golpeando a todos los monstruos.
+ 
+ 
+ 
+ 
+ 
+ 
+
+|piano11| Los paneles murales representan las teclas del pianoâ€¦ |
+|giraGemme1| Este item puede ayudarte. RevÃ­salo con cuidado. |
+|storiella1| La decoraciÃ³n de las camas corresponde a las monedas. Oro a la izquierda, plata a la derecha.. |
+|cassaArmadio1| Este objeto puede ayudarte. Revisa tu inventario. |
+|cassaArmadio2| Con la iluminaciÃ³n adecuada, encontrarÃ¡ la soluciÃ³nâ€¦ |

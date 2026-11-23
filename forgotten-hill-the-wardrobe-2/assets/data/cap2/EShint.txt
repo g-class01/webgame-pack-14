@@ -1,0 +1,47 @@
+
+ Algo estÃ¡ faltando
+ Selecciona una pista o cierra el menÃº de pistas
+ Este objeto puede ayudarte. Revisa tu inventario.
+ Este item puede ayudarte. revÃ­salo con cuidado.
+ Verifica este sitio cuidadosamente...
+ En este libro encontrarÃ¡s pistas importantes
+ 
+ Intercambia las fichas para que coincidan con todas las lÃ­neas.
+ Usa la lÃ¡mpara para hacer que las sombras de los pÃ¡jaros coincidan con sus siluetas.
+ Escuche atentamente la historia que le cuenta el mayordomo.
+ Este objeto puede ayudarte. Revisa tu inventario.
+ Siga las lÃ­neas para encontrar la tarjeta incorrecta.
+ Ocupa todos los espacios con los muffins sin nunca superponerlos.
+ Consulte el libro para encontrar quiÃ©n puede ayudarlo con el reloj.
+ 
+ 
+ 
+|hintPuzRighe1| La primera fila es asÃ­, Â¿puedes seguir solo?|
+|puzNave1| Presione las clavijas en la pared imitando el rumbo del barco en la pista|
+|anatraPrimo1| En este libro encontrarÃ¡s pistas importantes|
+|anatraPrimo2| Realiza esta secuencia con el reclamo para llamar al pato.|
+|anatraFame1| Parece que el pato tiene hambre...|
+|anatraFame2| Verifica este sitio cuidadosamente...|
+|hintLangAnatre1| El pato sabe cuÃ¡les son las palabras de agradecimiento.|
+|hintLangAnatre2| Haz esta secuencia con el reclamo de pato.|
+|PuzZampe1| Compruebe que la longitud y la inclinaciÃ³n de todas las piezas coincidan con la pista.|
+|corvese1| Consulta el libro para traducir el idioma de los patos al cuervÃ©s.|
+|corvese2| Haz esta secuencia con el reclamo de pato para responder al mayordomo|
+|rosaRossa1| Verifica este sitio cuidadosamente...|
+|rosaRossa2| Sumerge el pincel en sangre para pintar las rosas de rojo.|
+|puzPiantaSfiori1| Arregle las flores siguiendo las instrucciones de la canciÃ³n infantil.|
+|puzPiantaSfiori2| Coloca las flores en las enredaderas en este orden.|
+|richiamaCorvo1| Consulta el libro para entender cÃ³mo llamar al cuervo cornudo.|
+|richiamaCorvo2| Haz esta secuencia con el reclamo de pato para llamar al cuervo cornudo.|
+|ripetiCorvo1| Repite lo que te dice el cuervo traduciendo del idioma de los patos.|
+|puzzleFrutta1| Usa el decodificador y los sÃ­mbolos en la pizarra para encontrar la combinaciÃ³n correcta.|
+|ingressoMartha1| Consulte la canciÃ³n infantil para encontrar la combinaciÃ³n de aromas favorita de Martha.|
+|primoPico1| Consulta el libro para saber cÃ³mo conseguir que Pico te siga.|
+|picoAiuto1| Consulte el libro para obtener ayuda de Pico.|
+|picoNusma1| Haz que el Pico huela el guante de cocina y luego pÃ­dele ayuda.|
+|picoMandrake1| Traiga el Pico aquÃ­ y obtenga ayuda.|
+|chiamaVespa1| Consulte el libro para saber cÃ³mo llamar a la avispa de la miel.|
+|hintCalmaApi1| Consulte el libro para comprender cÃ³mo calmar a las avispas.|
+|forgottenTaste1| Vamos a ayudarte a crear el Sabor Olvidado: Â¡necesitarÃ¡s 3 porciones de miel!|
+|forgottenTaste2| Organice los ingredientes de esta manera para obtener el Sabor Olvidado.|
+|pozzaHypno1| Prepara el sabor con efectos hipnÃ³ticos para dÃ¡rselo al mayordomo.|

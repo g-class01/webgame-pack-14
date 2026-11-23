@@ -1,0 +1,73 @@
+
+testDOC|stpX=86|WriteLayer=screen|sceneBL=Corr1C2|startX=200|startY=30|startY2=30|spazioDisp=200|spazioDisp2=200|adjust=5|font=hand|singolo=true|allign=center|image=volantino|if_LENGUAGE_IT_adjust_8|double=false|startX2=600|skip=false|allignPG2=center
+*|if_LENGUAGE_IT_adjust_8|
+*|double=true|
+*|
+*|skip=true|image=libroFilastrocca|singolo=false|
+*|startX=600|font=stamp|adjust=2|
+
+
+diarioDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=98|startY=40|startY2=40|spazioDisp=300|spazioDisp2=280|adjust=3|font=hand|singolo=false|allign=left|image=liario2|double=false|startX2=425|skip=false|allignPG2=left
+*|image=copertinaDiario
+*|image=diarioPG2|text= Cher journal, \ Je suis si heureuse, jâ€™ai fini par trouver Mon Monde ! Tout est beau ici comme je le voulais et câ€™est un secret ! Jâ€™ai rencontrÃ© un Ã©trange et gentil majordome qui mâ€™a
+*|image=diarioPG2|text= \ expliquÃ© un tas de trucs amusants. Il suffit dâ€™utiliser une clÃ© spÃ©ciale pour atteindre Mon Monde, câ€™est trÃ¨s sÃ»r !
+
+libroUccelliDOC|stpX=86|stpXpg2=403|WriteLayer=screen|sceneBL=splash|startX=100|startY=35|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaUCC|double=false|startX2=570|skip=false|allignPG2=center
+*|
+*|image=libroUCCpg3|text= @LES CANARDS \ Les canards sont des animaux sociaux utilisant des vocalises pour communiquer. Nous pouvons graphiquement reprÃ©senter leurs sons avec ces symboles : stp_a/73 \ Ils utilisent souvent de son de remplissage sans signification particuliÃ¨re : stp_b/48 \
+*|image=libroUCCpg2|text= Pour appeler un canard, cette sÃ©quence sâ€™est rÃ©vÃ©lÃ©e efficace \ stp_chiamata/70 \ SÃ©quence qui, si elle est correctement traduite, peut Ã©galement Ãªtre utilisÃ©e avec diffÃ©rents oiseaux. \ Cette chanson, en revanche, signifie que le canard meurt de faim : stp_fame/120
+*|double=true|image=libroUCCpgBlank|text= @LES CORBEAUX \ Les corbeaux sont des animaux intelligents avec lesquels il est trÃ¨s intÃ©ressant de communiquer. Voici comment se reprÃ©sente leur chanson stp_simbC/48 \ \ Les corbeaux nâ€™utilisent pas de sons de remplissage, chaque note a un sens. Leur son est plus dur et plus rauque que les autres oiseaux.
+*|text= \ ComparÃ©e Ã  celle des canards, la langue des corbeaux fonctionne en sens inverse.  \ stp_reverse/112 \ Les sons sont lus de bas en haut de droite Ã  gauche.
+*|skip=true|image=libroUCCpg4|text= De plus, dans la langue des corbeaux, deux sons simples proches Ã©quivalent Ã  un son de canard composite. Les sons composites des corbeaux, de leur cÃ´tÃ©, sont sÃ©parÃ©s en deux simples sons de canards.  \ stp_fusion/163 \
+
+append|paginaORO|libroUccelliDOC|*|image=PGuccelloORO|text= @Lâ€™OISEAU DORÃ‰ \ Oiseau de la famille des anatidÃ©s, il est extrÃªmement rare et peut-Ãªtre pratiquement Ã©teint. Son nom vient du fait que, sâ€™il est correctement encouragÃ©, il peut flairer et trouver tout objet en or Ã  proximitÃ©. \ Cette sÃ©quence de sons \ stp_aiuto/58 \ \ a Ã©tÃ© interprÃ©tÃ©e comme un appel de dÃ©tresse.
+append|paginaCorvo|libroUccelliDOC|*|image=PGcorvoCorna|text= @CORVUS CORNUTENSIS \ Le corbeau cornu est un passereau de la famille des corvidÃ©s. Il a une nature extrÃªmement agressive et son langage est trÃ¨s similaire Ã  celui des corbeaux communs mais il utilise des sons opposÃ©s : \ stp_invCorna/131 \
+append|paginaCorvo2|libroUccelliDOC|*|image=PGcorvoCorna2|text= \ Lorsquâ€™il est approchÃ© par un humain inconnu, il Ã©met une chanson typique pour vÃ©rifier la fiabilitÃ©. La meilleure chose, dans cette situation, est de rÃ©pondre de mÃªme, sinon le corbeau cornu peut donner libre cours Ã  son agressivitÃ© fÃ©roce et innÃ©e et devenir trÃ¨s dangereux.
+
+fioriDOC|stpX=center|WriteLayer=screen|sceneBL=splash|startX=400|startY=35|startY2=40|spazioDisp=250|spazioDisp2=250|adjust=1|font=stamp|singolo=true|allign=center|image=fioriDocu|double=false|startX2=425|skip=false|allignPG2=center
+*|text= @CINQ FILLETTES \ \ Une fillette adore lâ€™odeur du cafÃ© crÃ¨me, \ et de jaunes fleurs se posent sur la deuxiÃ¨me.  \ stp_caffe/40 \ Une fillette adore le chocolat, \ et des fleurs pourpres vont Ã  droite, avec Ã©clat.  \ stp_ciocco/40
+*|text= \ Une fillette de la vanille bourbon raffole, \ et les fleurs orange au centre se collent  \ stp_vaniglia/40 \ Une fillette sâ€™embaume de cannelle, \ et les fleurs bleues Ã  gauche se rÃ©vÃ¨lent.  \ stp_cannella/40
+*|text= \ Une autre fillette pense que le chocolat est supÃ©rieur, \ et les roses rouges vont Ã  droite, Ã  lâ€™intÃ©rieur.  \ stp_ciocco/40
+
+letteraKeyDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=125|startY=45|startY2=60|spazioDisp=300|adjust=1|font=hand|singolo=false|allign=left|image=letteraKeyDOC|double=false|startX2=425|skip=false|allignPG2=center
+*|text= ChÃ¨re Abby, \ Je suis impatiente de te montrer mon Monde, il est super ! Pour y entrer, tu dois apporter une recette de dessert exquis. Jâ€™espÃ¨re que tu viendras bientÃ´t. \ @Marta.
+
+letteraDOC|stpX=86|sceneBL=splash|WriteLayer=screen|startX=125|startY=45|spazioDisp=300|adjust=1|font=hand|singolo=false|allign=left|image=lettera|double=false|startX2=425|skip=false|allignPG2=center
+*|text= ChÃ¨re Abby, \ Je suis impatiente de te montrer mon Monde, il est super ! Pour y entrer, tu dois apporter une recette de dessert exquis. Jâ€™espÃ¨re que tu viendras bientÃ´t. \ @Marta.
+
+giornaleDOC|stpX=86|WriteLayer=giornale|sceneBL=splash|startX=280|startY=125|spazioDisp=450|spazioDisp2=655|adjust=2|font=stamp|singolo=invisibile|allign=left|image=invisibile|double=true|startX2=91|startY2=328|skip=false|allignPG2=left
+*|double=true|text= Aujourdâ€™hui, notre chef est fier de vous offrir la recette dâ€™un dessert vÃ©ritablement exquis, le GÃ¢teau CÅ“ur dâ€™Ange. Simple Ã  prÃ©parer avec des ingrÃ©dients simples et authentiques, il enchantera petits et grands. Suivez simplement ces instructions Ã©tape par Ã©tape. Prenez une coupe de purÃ©e de gentiane sauvage, une cuillerÃ©e Ã  soupe de
+*|text=  lait concentrÃ© de yak, quatre Å“ufs de macareux, une tasse de farine de noyaux dâ€™olives, une pincÃ©e de poudre de piment habanero, trois cuillerÃ©es Ã  cafÃ© de mÃ©lasse de betterave, une
+
+ingredientiDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=100|startY=40|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaING|double=false|startX2=425|skip=false|allignPG2=left
+*|image=copertinaING
+*|image=paginaSchifrutto|text= @MANGUE DE JUDAS \ \ Plante au port retombant, aussi appelÃ©e plante sans fleurs selon une ancienne histoire pour enfants. Son absence naturelle de fleurs rend ses fruits trÃ¨s prÃ©cieux : lorsquâ€™une sÃ©rie de conditions prÃ©cises est rÃ©unie, une unique mangue est produite. Un jus trÃ¨s parfumÃ© et dÃ©licieux en est extrait.
+*|image=paginaMandrake|text= @ESPRIT DE MANDRAGORE \ \ Distillat Ã  haute teneur en alcool obtenu Ã  partir de la fermentation de la racine de mandragore. Autrefois trÃ¨s rÃ©pandue, la croyance selon laquelle les mandragores contiennent lâ€™esprit des morts et son effet addictif Ã©levÃ© ont marquÃ© le dÃ©clin de la production de cette liqueur typique de Forgotten Hill.
+*|image=paginaMiele|text= @MIEL DE GUÃŠPE \ \ Miel de fleurs fin et rare produit par la Vespula Mellifera. Son goÃ»t prononcÃ© et aromatique le rend extrÃªmement polyvalent en cuisine et en pÃ¢tisserie. Une vÃ©ritable gourmandise, prÃ©cieuse et raffinÃ©e.
+*|image=paginaBacche|text= @MYRTILLUS SUCULENTUS \ \ Arbuste fruitier au port buissonnant produisant de petites baies bleues. Plante robuste qui se prÃªte facilement Ã  la culture en pot en intÃ©rieur. Un jus trÃ¨s savoureux et vivifiant est extrait des fruits. Câ€™est lâ€™une des friandises prÃ©fÃ©rÃ©es des oiseaux et des volailles.
+
+animaliDOC|stpX=86|stpXpg2=403|WriteLayer=screen|sceneBL=splash|startX=100|startY=35|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaAnimals|double=false|startX2=565|skip=false|allignPG2=center
+*|image=copertinaAnimals
+*|image=pagina2pico|text= @RATTUS PICONICUS \ \ CommunÃ©ment appelÃ© Pico, ce rongeur appartenant Ã  la trÃ¨s rare famille des mammifÃ¨res ovipares a rÃ©cemment Ã©tÃ© domestiquÃ©. Bien que de nature plutÃ´t agressive, un spÃ©cimen nÃ© en captivitÃ© peut efficacement Ãªtre entraÃ®nÃ© en exploitant son odorat trÃ¨s sensible.
+*|double=true|image=libroUCCpgBlank|text= \ Par exemple, en diffusant cette mixture dâ€™arÃ´mes prÃ¨s de lui, lâ€™animal vous suivra fidÃ¨lement :  \ stp_seguimi/56 \ De son cÃ´tÃ©, cette fragrance est interprÃ©tÃ©e par le Pico comme un appel Ã  lâ€™aide :  \ stp_aiutami/56 \
+*|text= \ Lorsque le Pico la sent, il sera presque instantanÃ©ment capable de comprendre les besoins de ceux qui lâ€™entourent et fera tout son possible pour aider. Certaines thÃ©ories avancent lâ€™hypothÃ¨se que cette espÃ¨ce particuliÃ¨re possÃ¨de des facultÃ©s tÃ©lÃ©pathiques. Ces compÃ©tences peuvent se rÃ©vÃ©ler trÃ¨s utiles dans certaines situations.
+*|skip=true|image=pagina1pico|text= \ Par exemple, il suffit de lui faire renifler un objet et lui envoyer un stimulus de recherche grÃ¢ce Ã  cette sÃ©quence aromatique  \ stp_cerca/56 \ pour faire du Rattus Piconicus un excellent limier.
+
+append|paginaVespe1|animaliDOC|*|image=paginaVespe1|text= @VESPULA MELLIFERA \ ConsidÃ©rÃ©e comme la grande variÃ©tÃ© existante de vespidÃ©s, dans un environnement avec diffÃ©rents types de fleurs, elle se rÃ©vÃ¨le Ãªtre une pollinisatrice exceptionnelle. Elle est fortement attirÃ©e par les arÃ´mes de pÃ¢tisserie tels que ceux-ci :  \ stp_chiamaV/56 \ Il est recommandÃ© de ne pas les attraper Ã  mains nues car elles sont trÃ¨s venimeuses.
+append|paginaVespe2|animaliDOC|*|image=paginaVespe2|text= Insecte essentiellement carnivore, prÃ©dateur dâ€™autres insectes, il vit en grandes colonies. PrÃ¨s dâ€™un essaim, il est recommandÃ© de diffuser un arÃ´me relaxant tel que :  \ stp_addormentaV/56 \ afin de sâ€™assurer que les guÃªpes retournent dans leur nid. Câ€™est la seule faÃ§on de pouvoir rÃ©colter leur prÃ©cieux miel aromatique.
+
+letteraMandrakeDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=134|startY=60|startY2=40|spazioDisp=270|spazioDisp2=230|adjust=3|font=stamp|singolo=false|allign=left|image=lettera|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Jâ€™ai maintenant perdu mon combat contre lâ€™Esprit de Mandragore. Je suis Ã©puisÃ© mais je ne peux pas mâ€™en passer. Câ€™est un dÃ©mon qui ne me quittera jamais et que je ne peux vaincre. Mais je nâ€™abandonne pas, je ne suis pas encore prÃªt. Jâ€™ai jetÃ© ma derniÃ¨re bouteille dans la cave et, une fois verrouillÃ©e, jâ€™ai dÃ©truit la clÃ©.
+*|text= Lâ€™Esprit de Mandragore est dÃ©sormais hors de ma portÃ©e. Je pense compter sur quelques jours de luciditÃ©. \ Je lâ€™espÃ¨re, je lâ€™espÃ¨re, je lâ€™espÃ¨re. \ \ @Augustus Blumenthal.
+
+ricettaDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=400|startY=25|startY2=25|spazioDisp=360|spazioDisp2=375|adjust=0|font=stamp|singolo=true|allign=center|image=foglioBIG|double=false|startX2=225|skip=false|allignPG2=center
+*|text= @LA SAVEUR OUBLIÃ‰E \ \ Pour obtenir la lÃ©gendaire Saveur OubliÃ©e, vous avez besoin de neuf portions dâ€™ingrÃ©dients secrets qui doivent Ãªtre assemblÃ©es en suivant scrupuleusement ces instructions : \ \ - il ne peut jamais y avoir deux ingrÃ©dients identiques consÃ©cutifs. \ \ - seul un ingrÃ©dient peut Ãªtre utilisÃ© trois fois, une fois au dÃ©but et une fois Ã  la fin, et ne peut Ãªtre un alcool.
+*|text= \ - utilisez une seule portion de rÃ©glisse, exactement au centre. \ \ - un seul ingrÃ©dient aura deux portions et ne peut jamais Ãªtre un jus. \ \ - La confiture ne peut Ãªtre quâ€™entre le jus de baie et lâ€™esprit de mandragore. \ \ - Le jus de baies ne peut Ãªtre utilisÃ© quâ€™aprÃ¨s une portion de miel.
+*|text= \ \ - Lâ€™esprit de mandragore ne peut jamais Ãªtre utilisÃ© avant le miel qui ne peut, lui, jamais se trouver avant ni aprÃ¨s une portion de confiture. \ \ - Le jus de mangue de Judas ne devrait jamais Ãªtre utilisÃ© aprÃ¨s le miel.
+
+istruzioniPmDOC|stpX=center|WriteLayer=istruzioni|sceneBL=splash|startX=140|startY=30|spazioDisp=180|spazioDisp2=660|adjust=1|font=stamp|singolo=invisibile|allign=center|image=invisibile|double=false|startX2=91|startY2=338|skip=false|allignPG2=left
+*|text= \ Servez une douceur Ã  chaque invitÃ©, mais faites attention Ã  ne leur en donner quâ€™un, sinon ils mourront...  \ stp_muffin/121
+
+BingredientiDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=400|startY=40|startY2=60|spazioDisp=340|adjust=3|font=stamp|singolo=false|allign=center|image=foglioBIGING|double=false|startX2=425|skip=false|allignPG2=center
+*|text= @LA SAVEUR OUBLIÃ‰E \ \ IngrÃ©dients : \ \ Miel de guÃªpe, \ Confiture assaisonnÃ©e, \ Poudre de rÃ©glisse, \ Jus de mangue de Judas, \ Esprit de mandragore, \ Jus de baie juteuse.
+

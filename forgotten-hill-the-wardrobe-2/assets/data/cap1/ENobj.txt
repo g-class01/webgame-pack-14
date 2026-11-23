@@ -1,0 +1,15 @@
+chiaveSpecchio|key
+chiaveT|key
+bigliettoSpecchioPOP|piece of paper
+cacciavite|screwdriver
+candela|candle
+candelabro|candle holder
+chiaveArmadio|key
+chiaveCam|key
+chiaveSTarmadio|key
+coltello|knife
+fiammiferi|matches
+fogliettoPOP|piece of paper
+gemma|gem
+medicina|medicine
+serratOBJ|door lock

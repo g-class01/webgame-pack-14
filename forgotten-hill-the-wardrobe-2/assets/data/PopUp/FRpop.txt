@@ -1,0 +1,6 @@
+bigliettoSpecchioPOP|400|200|400|a| La lumiÃ¨re est \ toujours rÃ©vÃ©latrice.
+
+indizioNavePOP|400|280|350|a| Un bon capitaine suit toujours la route |splash
+puzZPOP|400|280|350|a||splash
+indizFruttaPOP|400|280|350|a||splash
+ipnoticoPOP|400|90|500|a| Jâ€™ai presque rÃ©ussi Ã  recrÃ©er la Saveur OubliÃ©e. Je pense quâ€™il me manque quelques ingrÃ©dients, mais cette recette sâ€™en approche beaucoup.  Malheureusement, elle a un puissant effet hypnotique. |splash

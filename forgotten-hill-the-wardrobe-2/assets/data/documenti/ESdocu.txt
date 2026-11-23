@@ -1,0 +1,73 @@
+
+testDOC|stpX=86|WriteLayer=screen|sceneBL=Corr1C2|startX=200|startY=30|startY2=30|spazioDisp=200|spazioDisp2=200|adjust=5|font=hand|singolo=true|allign=center|image=volantino|if_LENGUAGE_IT_adjust_8|double=false|startX2=600|skip=false|allignPG2=center
+*|if_LENGUAGE_IT_adjust_8|
+*|double=true|
+*|
+*|skip=true|image=libroFilastrocca|singolo=false|
+*|startX=600|font=stamp|adjust=2|
+
+
+diarioDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=98|startY=40|startY2=40|spazioDisp=300|spazioDisp2=280|adjust=3|font=hand|singolo=false|allign=left|image=liario2|double=false|startX2=425|skip=false|allignPG2=left
+*|image=copertinaDiario
+*|image=diarioPG2|text= Querido diario, \ estoy tan feliz, Â¡finalmente encontrÃ© Mi Mundo! Todo es hermoso allÃ­ y tal como lo quiero, Â¡y es un secreto! ConocÃ­ a uno extraÃ±o y agradable mayordomo que me
+*|image=diarioPG2|text= explicÃ³ muchas cosas divertidas. Solo usando una llave especial puedes entrar a mi mundo, Â¡es sÃºper seguro!
+
+libroUccelliDOC|stpX=86|stpXpg2=403|WriteLayer=screen|sceneBL=splash|startX=100|startY=35|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaUCC|double=false|startX2=570|skip=false|allignPG2=center
+*|
+*|image=libroUCCpg3|text= @PATOS \ Los patos son animales sociales. Para comunicarse utilizan vocalizaciones, que podemos representar grÃ¡ficamente con estos sÃ­mbolos: stp_a/73 \ Suelen utilizar esta capa intermedia, sin un significado preciso: stp_b/48 \
+*|image=libroUCCpg2|text= Para llamar a los patos, esta secuencia ha demostrado ser muy efectiva y, si se traduce correctamente, funciona con todas las aves: \ stp_chiamata/70 \ Esta otra secuencia, por otro lado, significa que el pato tiene hambre: stp_fame/120 \
+*|double=true|image=libroUCCpgBlank|text= @CUERVOS \ Los cuervos son animales extremadamente inteligentes y es muy interesante comunicarse con ellos. AsÃ­ es como representamos sus gritos: \ stp_simbC/48 \ \ que son sonidos mÃ¡s estridentes y Ã¡speros que los de otras aves. Los cuervos no usan capas intermedias, todos sus sonidos tienen sentido.
+*|text= Su lenguaje funciona de manera opuesta al de los patos. \ stp_reverse/112 \ Los sonidos se leen de abajo hacia arriba y de derecha a izquierda. \ stp_DXSX/82 \
+*|skip=true|image=libroUCCpg4|text= En el lenguaje de los cuervos, dos sonidos simples juntos equivalen a un sonido compuesto de patos. Los sonidos compuestos de los cuervos, por otro lado, se dividen en dos sonidos Ãºnicos de patos. \ stp_fusion/163 \
+
+append|paginaORO|libroUccelliDOC|*|image=PGuccelloORO|text= @EL PÃJARO DORADO \ Ave de la familia de las anÃ¡tidas, extremadamente rara y quizÃ¡s casi extinta. Debe su nombre al hecho de que, si se le pincha adecuadamente, puede olfatear y encontrar cualquier objeto de oro cercano. \ Muestra esta secuencia \ stp_aiuto/58 \ \ como una solicitud de ayuda.
+append|paginaCorvo|libroUccelliDOC|*|image=PGcorvoCorna|text= @CORVUS CORNUTENSIS \ El cuervo cornudo es un ave paseriforme de la familia Corvid. De naturaleza extremadamente agresiva, utiliza un lenguaje similar al de los cuervos comunes pero que emite sonidos opuestos: \ stp_invCorna/131 \
+append|paginaCorvo2|libroUccelliDOC|*|image=PGcorvoCorna2|text= Cuando se encuentra con un extraÃ±o emite un verso tÃ­pico para verificar su confiabilidad. En casos como este lo mejor es responder de la misma manera, o el cuervo cornudo podrÃ­a dar rienda suelta a su innata y feroz agresiÃ³n, volviÃ©ndose muy peligroso.
+
+fioriDOC|stpX=center|WriteLayer=screen|sceneBL=splash|startX=400|startY=35|startY2=40|spazioDisp=250|spazioDisp2=250|adjust=1|font=stamp|singolo=true|allign=center|image=fioriDocu|double=false|startX2=425|skip=false|allignPG2=center
+*|text= @CINCO NIÃ‘AS \ \ Una niÃ±a el sabor del cafÃ© adora un mundo y de las flores amarillas toma el segundo. \ stp_caffe/40 \ A una niÃ±a el chocolate le encanta, y de flores violetas toma la de la derecha y no se espanta. \ stp_ciocco/40
+*|text= Una niÃ±a ama la vainilla y las flores naranja las pone en medio de la parrilla. \ stp_vaniglia/40 \ A una niÃ±a le gusta la canela y con las flores azules toma la de la izquierda, como su abuela. \ stp_cannella/40 
+*|text= Una otra niÃ±a el sabor de chocolate por todas partes llega, y de rosas rojas toma lo que queda. \ stp_ciocco/40 
+
+letteraKeyDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=125|startY=40|startY2=60|spazioDisp=300|adjust=1|font=hand|singolo=false|allign=left|image=letteraKeyDOC|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Querida Abby, \ Estoy ansiosa por mostrarte mi mundo, Â¡es genial! Para ingresar debes traer una receta de un postre exquisito. \ Espero que vengas pronto. \ @Martha.
+
+letteraDOC|stpX=86|sceneBL=splash|WriteLayer=screen|startX=125|startY=40|spazioDisp=300|adjust=1|font=hand|singolo=false|allign=left|image=lettera|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Querida Abby, \ Estoy ansiosa por mostrarte mi mundo, Â¡es genial! Para ingresar debes traer una receta de un postre exquisito. \ Espero que vengas pronto. \ @Martha.
+
+giornaleDOC|stpX=86|WriteLayer=giornale|sceneBL=splash|startX=280|startY=125|spazioDisp=450|spazioDisp2=655|adjust=2|font=stamp|singolo=invisibile|allign=left|image=invisibile|double=true|startX2=91|startY2=328|skip=false|allignPG2=left
+*|double=true|text= Hoy nuestro cocinero te ofrece la receta de un postre verdaderamente exquisito, el Pastel CorazÃ³n de Ãngel. FÃ¡cil de preparar y con ingredientes simples y genuinos, sorprenderÃ¡ a grandes y pequeÃ±os. Tome una taza de purÃ© de genciana salvaje, una cucharada de leche de yak condensada, 4 huevos de frailecillo, una taza de harina de
+*|text= avellana de aceitunas, una pizca de chile abanero en polvo, tres cucharadas de melaza de remolacha, una pizca de ajo germinado
+
+ingredientiDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=100|startY=40|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaING|double=false|startX2=425|skip=false|allignPG2=left
+*|image=copertinaING
+*|image=paginaSchifrutto|text= @MANGO DE JUDAS \ \ Planta con hÃ¡bito caÃ­do, tambiÃ©n llamada Planta sin flores de un cuento antiguo para niÃ±os. Su ausencia natural de flores hace que su fruto sea muy preciado: solo cuando se cumplen una serie de condiciones precisas, se produce un solo mango. De ella se extrae un jugo muy fragante y delicioso.
+*|image=paginaMandrake|text= @ESPÃRITU DE MANDRAGORA \ \ Destilado con alto contenido de alcohol obtenido de la fermentaciÃ³n de la raÃ­z de mandrÃ¡gora. Una vez bastante comÃºn, la creencia de que las mandrÃ¡goras contienen el espÃ­ritu de los muertos y el alto efecto adictivo han marcado el declive en la producciÃ³n de este licor tÃ­pico de Forgotten Hill.
+*|image=paginaMiele|text= @MIEL DE VESPULATIS \ \ Preciosa miel multiflora producida por Vespula Mellifera. Su sabor fuerte y aromÃ¡tico lo hace extremadamente versÃ¡til en la cocina y en reposterÃ­a. Un verdadero manjar precioso y refinado.
+*|image=paginaBacche|text= @MYRTILLUS SUCULENTUS \ \ Arbusto frutal de hÃ¡bito tupido que produce pequeÃ±as bayas azules. Planta robusta que se presta fÃ¡cilmente al cultivo en maceta y en interior. De las frutas se extrae un jugo muy sabroso y vigorizante. Es uno de los alimentos favoritos de las aves y las aves de corral.
+
+animaliDOC|stpX=86|stpXpg2=403|WriteLayer=screen|sceneBL=splash|startX=100|startY=35|startY2=40|spazioDisp=305|spazioDisp2=280|adjust=1|font=stamp|singolo=false|allign=left|image=copertinaAnimals|double=false|startX2=565|skip=false|allignPG2=center
+*|image=copertinaAnimals
+*|image=pagina2pico|text= @RATTUS PICONICUS \ \ ComÃºnmente llamado Pico, este roedor perteneciente a la muy rara familia de mamÃ­feros ovÃ­paros ha sido domesticado recientemente. Aunque de naturaleza bastante agresiva, un espÃ©cimen nacido en cautiverio puede ser entrenado eficazmente explotando su sentido del olfato altamente sensible.
+*|double=true|image=libroUCCpgBlank|text= \ Emitir esta secuencia de aromas en su presencia, por ejemplo, harÃ¡ que el animal te siga fielmente: \ stp_seguimi/56 \ Esta fragancia, en cambio, se interpreta como una peticiÃ³n de ayuda: \ stp_aiutami/56 \
+*|text= \ Cuando el Pico lo perciba, casi instantÃ¡neamente comprenderÃ¡ lo que necesitan los que lo rodean y harÃ¡ todo lo posible para ayudarlo. De hecho, algunas teorÃ­as plantean la hipÃ³tesis de que esta especie en particular posee facultades telepÃ¡ticas. Estas habilidades pueden resultar muy Ãºtiles en diferentes situaciones.
+*|skip=true|image=pagina1pico|text= \ Por ejemplo, es posible hacerle oler un objeto y luego enviarle un estÃ­mulo de bÃºsqueda a travÃ©s de esta secuencia aromÃ¡tica: \ stp_cerca/56 \ para convertir al Rattus Piconicus en un excelente sabueso.
+
+append|paginaVespe1|animaliDOC|*|image=paginaVespe1|text= @VESPULA MELLIFERA \ Considerada la especie de vespida mÃ¡s grande que existe, si se encuentra en un ambiente con diferentes tipos de flores, resulta ser un polinizador excepcional. Se siente muy atraÃ­da por aromas de pastelerÃ­a como estos: \ stp_chiamaV/56 \ Es aconsejable no agarrarlo con las manos desnudas, ya que es muy venenoso.
+append|paginaVespe2|animaliDOC|*|image=paginaVespe2|text= Insecto predominantemente carnÃ­voro, depredador de otros insectos, habita en numerosas colonias. En presencia de un enjambre, se recomienda emitir un aroma relajante como el siguiente: \ stp_addormentaV/56 \ para asegurar que las avispas vuelvan a entrar en su nido. Solo asÃ­ serÃ¡ posible cosechar su preciosa miel aromÃ¡tica.
+
+letteraMandrakeDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=134|startY=60|startY2=40|spazioDisp=270|spazioDisp2=230|adjust=3|font=stamp|singolo=false|allign=left|image=lettera|double=false|startX2=425|skip=false|allignPG2=center
+*|text= Ahora he perdido mi batalla contra el EspÃ­ritu de MandrÃ¡gora. Estoy exhausto, pero todavÃ­a no puedo prescindir de Ã©l. Es un demonio que nunca me dejarÃ¡ y que no puedo vencer. Pero no me doy por vencido todavÃ­a, no estoy listo todavÃ­a. TirÃ© mi Ãºltima botella en el
+*|text= sÃ³tano y una vez cerrado destruÃ­ la llave. El espÃ­ritu de MandrÃ¡gora ahora estÃ¡ fuera de mi alcance. Creo que puedo contar con unos dÃ­as de lucidez. \ Eso espero, eso espero, eso espero. \ \ @Augustus Blumenthal.
+
+ricettaDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=400|startY=25|startY2=25|spazioDisp=360|spazioDisp2=375|adjust=0|font=stamp|singolo=true|allign=center|image=foglioBIG|double=false|startX2=225|skip=false|allignPG2=center
+*|text= @EL SABOR OLVIDADO \ \ Para obtener el legendario Sabor Olvidado necesitas 9 porciones de los ingredientes secretos, que deben ensamblarse siguiendo cuidadosamente estas instrucciones: \ \ - nunca puede haber 2 ingredientes idÃ©nticos consecutivos. \ \ - solo se puede usar un ingrediente 3 veces, una al principio y otra al final, y no puede ser un licor.
+*|text= \ - use solo 1 porciÃ³n de Regaliz, exactamente a la mitad. \ \ - solo un ingrediente estarÃ¡ presente con 2 porciones, y este nunca puede ser un jugo. \ \ - Mermelada solo se puede encontrar entre Jugo de Bayas y EspÃ­ritu de MandrÃ¡gora. \ \ - El Jugo de Bayas solo se puede usar despuÃ©s de una porciÃ³n de Miel.
+*|text= \ - el EspÃ­ritu de MandrÃ¡gora nunca se puede usar antes de Miel, que a su vez nunca puede ser antes o despuÃ©s de una porciÃ³n de Mermelada. \ \ - El Jugo de Mango de Judas nunca debe usarse despuÃ©s de Miel.
+
+istruzioniPmDOC|stpX=center|WriteLayer=istruzioni|sceneBL=splash|startX=140|startY=30|spazioDisp=180|spazioDisp2=660|adjust=1|font=stamp|singolo=invisibile|allign=center|image=invisibile|double=false|startX2=91|startY2=338|skip=false|allignPG2=left
+*|text= \ Sirve un dulce a todos los comensales, pero ten cuidado de no darles mÃ¡s de uno o morirÃ¡n... \ stp_muffin/121
+
+BingredientiDOC|stpX=86|WriteLayer=screen|sceneBL=splash|startX=400|startY=40|startY2=60|spazioDisp=340|adjust=3|font=stamp|singolo=false|allign=center|image=foglioBIGING|double=false|startX2=425|skip=false|allignPG2=center
+*|text= @EL SABOR OLVIDADO \ \ @Ingredientes: \ \ Miel de Vespula, \ Mermelada Sazonada, \ Regaliz en polvo, \ Jugo de mango de Judas, \ EspÃ­ritu de MandrÃ¡gora, \ Jugo de bayas suculentas.
+

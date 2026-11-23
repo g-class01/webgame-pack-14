@@ -1,0 +1,51 @@
+
+*|PuzRighe|637|40|hintPuzRighe|3|*|HINTpics|unlock|SHOW|tasselli 0|tasselli 1|*|puzRigheH|*|PuzRighe|tasselli 0\cassettaRighe 1|*|8|=|*|manoS|false|*|=
+*|puzzGigli|744|101|puzGigli|2|HINTpics|unlock|*|SHOW|sportScriva 1|sportScriva 2|corridoio3c2|*|*|scrivaniaC2|sportScriva 1|*|5|=|*|cassettoS|false|*|=
+*|Corr1C2|648|181|puzNave|3|indizioNavePOP|HINTpics|unlock|INV|Qnave 0|Qnave 1|*|hintPuzzleNave|*|Corr1C2|Qnave 0|*|4|=|*|cassettoS|false|indizioNavePOP|=
+*|cameraVerde|48|201|lampadaSolfanel|1|fiammiferi|*|*|INV|luceCam 0|luceCam 1|*|*|*|*|*|*|4|=|*|*|false|*|=
+*|bachecaZoom|552|87|hitnPinze|1|pinza|*|*|INV|chiodo 0|chiodo 1|*|*|*|*|*|*|4|=|*|*|false|*|=
+*|cameraVerde|128|167|lampadaUccelli|1|*|*|*|SHOW|hud -1|luceCam 0|*|*|*|*|*|*|9|=|*|*|false|*|=
+*|Corr2C2|317|70|hintChiodoPinza|1|*|*|*|MULTIINV|quadroUcc 0|chiodo 0|*|*|*|*|*|*|4|=|chiodo,bisturi|*|false|*|=
+*|Corr2C2|316|59|hintQuadroUcc|1|HINTpics|*|*|OBJMAPCHECKshow|chiodo 0|quadroUcc 2|diarioABBY|*|*|*|*|hud -1|4|=|*|*|false|*|=
+*|parpaZOOM|632|56|parpaHINT|2|HINTpics|unlock|*|OBJMAPCHECKshow|sportParpa 2|sportParpa 2|ingressoABBY|*|*|scrivaniaC2|sportParpa 1|entratoAbigail 99|5|=|*|cassettoS|false|*|<
+*|corrW1|50|66|hintChiaveFALC|1|falcetto|*|*|INV|lianaK 1|lianaK 1|*|*|*|*|*|*|4|>|*|*|false|*|=
+*|finestraZoom|648|36|anatraPrimo|3|richiamo_sx_GUI|HINTpics|HINTpics|OBJMAPCHECKinv|ANATRA 6|finestraA 0|*|libroUccelli|chiamaAnatra|*|*|libroUccelliDOC 0|4|=|*|*|false|*|<
+*|finestraZoom|600|37|anatraFame|3|HINTpics|HINTpics|HINTpics|SHOW|ANATRA 3|ANATRA 6|libroUccelli|paginaNadorFama|corridoioBacche|*|*|*|6|<|*|*|false|*|<
+*|Corr2C2|286|333|hintBacche|1|falcetto|*|*|INV|ANATRA 5|ANATRA 5|*|*|*|*|*|*|4|=|*|*|false|*|<
+*|corrW1|564|33|hintLangAnatre|3|richiamo_sx_GUI|HINTpics|HINTpics|OBJMAPCHECKinv|corvo 5|corvo 4|*|finestraAnatra|salutoANATRA|*|*|ANATRA 2|4|>|*|*|false|*|<
+*|puzzImpronte|739|345|indiZampe|1|HINTpics|*|*|SHOW|puzZPOP 0|puzZPOP 1|corridoioEmpress|*|*|*|*|*|5|=|*|*|false|*|=
+*|puzzImpronte|731|345|PuzZampe|3|puzZPOP|HINTpics|unlock|INV|portaLAT 1|puzZPOP 0|*|indiZampe|*|stanzinaW|portaLAT 1|*|5|=|*|cassettoS|false|puzZPOP|<
+*|STplantNOflower|727|100|corvese|3|libroUccelliDOC|HINTpics|unlock|INV|corvoFlower 3|corvoFlower 4|*|paginaCorvese|*|STplantNOflower|corvoMAG 5\corvoFlower 2|*|4|=|*|arpa|false|*|<
+*|STplantNOflower|347|72|PIANTASFIORI|1|*|HINTpics|*|SHOW|forbiciOro 0|corvoFlower 0|*|*|*|*|*|*|10|=|*|*|false|*|=
+*|stanzinaW|487|58|martelloH|1|martello|*|*|INV|vetroT 0|vetroT 1|*|*|*|*|*|*|4|=|*|*|false|*|=
+*|stanzinaW|184|94|foglioUccelloOro|1|HINTpics|*|*|SHOW|bachecaW 0|bachecaW 1|bachecaUccello|*|*|*|*|*|4|=|*|*|false|*|=
+*|Corr3C2|413|152|fioreViola|1|forbiciOro|*|*|INV|piantaSOS 0|piantaSOS 1|*|*|*|*|*|*|4|=|*|*|false|*|=
+*|ingressoC2|223|101|fioreArancio|1|forbiciOro|*|*|INV|PfioreARA 0|PfioreARA 1|*|*|*|*|*|*|4|=|*|*|false|*|=
+*|corrW2|526|122|fioreGiallo|1|forbiciOro|*|*|INV|piantaGialla 0|piantaGialla 1|*|*|*|*|*|*|4|=|*|*|false|*|=
+*|corrW3|659|257|fioreBlu|1|forbiciOro|*|*|INV|piantaAZZU 0|piantaAZZU 1|*|*|*|*|*|*|4|=|*|*|false|*|=
+*|STplantNOflower|503|43|puzPiantaSfiori|3|HINTpics|HINTpics|HINTpics|OBJMAPCHECKshow|PUZfioriLiane 0|forbiciOro 0|stanzinoScriva|bigliettoFiaba|soluzPiantaSfiori|*|*|lianaCabi 0|5|=|*|*|false|*|=
+*|finestraZoomC|667|53|richiamaCorvo|3|libroUccelliDOC|HINTpics|HINTpics|OBJMAPCHECKinv|corvoC 9|corvoC 9|*|paginaCorvoCornuto|seqChiamaCC|*|*|pagineCorvoC 0|4|=|*|*|false|*|<
+*|finestraZoomC|678|78|ripetiCorvo|3|libroUccelliDOC|HINTpics|unlock|OBJMAPCHECKinv|corvoC 7|corvoC 7|*|paginaCorvoCornuto|*|finestraZoomC|corvoC 6|pagineCorvoC 0|4|=|*|anatra3|false|*|<
+*|Corr3C2|92|56|letteraMARTHA|1|HINTpics|*|*|SHOW|letteraOBJ 0|ABBY 0|stanzaABBY|*|*|*|*|*|5|<|*|*|false|*|=
+*|giornaleZoom|747|87|tagliaGiornale|1|forbiciOro|*|*|INV|giornale 0|giornale 1|*|*|*|*|*|*|4|=|*|*|false|*|=
+*|carteZoom|677|31|puzzleCarte|2|*|unlock|*|SHOW|cassettaCarte 2|cassettaCarte 2|*|*|*|corrCake3|cassettaCarte 1|*|12|=|*|cassettoS|false|*|<
+*|puzFrutta|651|63|puzzleFrutta|3|HINTpics|HINTpics|unlock|OBJMAPCHECKshow|sportMarta 2|sportMarta 2|decoderFrutta|bachecaFrutta|*|cameraRosa|sportMarta 1|entratoMarta 99|5|=|*|cassettoS|false|indizFruttaPOP|<
+*|MUFFINSC1|754|105|giocoMuff1|2|*|unlock|*|SHOW|sportMuffin 2|sportMuffin 2|*|*|*|MUFFINSC2|*|*|13|=|*|win|false|*|<
+*|MUFFINSC2|754|105|giocoMuff2|1|unlock|*|*|SHOW|sportMuffin 2|sportMuffin 2|*|*|*|MUFFINSC3|*|*|4|=|*|win|false|*|<
+*|MUFFINSC3|754|105|giocoMuff3|1|unlock|*|*|SHOW|sportMuffin 2|sportMuffin 2|*|*|*|cucina|sportMuffin 1|*|4|=|*|win|false|*|<
+*|corrCake1|241|44|ingressoMartha|3|speziere_dx_GUI|HINTpics|unlock|OBJMAPCHECKinv|topo 4|topo 6|*|bigliettoFiaba|*|corrCake1|topo 4|ingredientiDOC 0|4|=|*|tasgira|false|*|=
+*|salaPranzo|251|64|primoPico|2|animaliDOC|HINTpics|*|INV|pico 3|pico 3|*|libroAnimali|*|*|*|*|4|=|*|*|false|*|<
+*|corrCake2|333|254|servePico|1|HINTpics|*|*|OBJMAPCHECKshow|picoCommand follow|topo 3|libroAnimali|*|*|*|*|animaliDOC 0|14|=|*|*|false|*|=
+*|corrCake2|335|268|picoAiuto|2|animaliDOC|HINTpics|*|INV|topo 2|picoCommand follow|*|libroAnimali|*|*|*|*|4|=|*|*|false|*|=
+*|corrCake4|429|200|picoNusma|2|guantoForno1|HINTpics|HINTpics|OBJMAPCHECKinv|GUANTI 0|picoCommand wait|*|guantoForno|*|*|*|scotta 6|4|=|*|*|false|*|=
+*|puzzGirello|745|96|puzzleMarmelle|2|BingredientiDOC|unlock|*|INV|sportCantina 2|sportCantina 2|*|*|*|cantina|sportCantina 1|*|4|=|*|cassettoS|false|*|<
+*|cantina|678|186|picoMandrake|2|HINTpics|HINTpics|*|SHOW|pico -2|sportCantina 0|letteraMandrake|libroAnimali|*|*|*|*|4|=|*|*|false|*|<
+*|Corr2C2|109|264|hintBaccheM|1|forbiciOro|*|*|INV|cespuglioBacche 0|sportCucina 0|*|*|*|*|*|*|4|=|*|*|false|*|<
+*|finestraZoomV|692|63|chiamaVespa|2|animaliDOC|HINTpics|*|OBJMAPCHECKinv|VESPA 2|VESPA 2|*|paginaApe|*|*|*|foglioAPI 0|4|=|*|*|false|*|<
+*|finestraZoomV|692|72|catturaAPE|1|vasoApe|*|*|INV|VESPA 0|VESPA 1|*|*|*|*|*|*|4|=|*|*|false|*|=
+*|STplantNOflower|297|66|vespaPiantaSFiori|1|vasoApePieno|*|*|INV|vespaSprite 2|vasoApe 0|*|*|*|*|*|*|4|=|*|*|false|*|<
+*|STplantNOflower|97|48|hintCalmaApi|2|animaliDOC|HINTpics|*|INV|vespaSprite 0|vespaSprite 0|*|paginaCalmaApi|*|*|*|*|4|=|*|*|false|*|<
+*|STplantNOflower|199|238|hintMiele|1|vasoMiele|*|*|INV|vasoMieleP 0|vespaSprite -1|*|*|*|*|*|*|4|=|*|*|false|*|=
+*|ingredienti|140|43|forgottenTaste|3|ricettaDOC|*|HINTpics|OBJMAPCHECKinv|MARTHAbeve 99|beckerPiazzato 1|*|*|soluzSapore|*|*|INGRDIENTI 0|4|=|*|*|false|*|=
+*|ingredienti|166|44|pozzaHypno|2|ipnoticoPOP|HINTpics|*|OBJMAPCHECKinv|MaggiordomoVEROBIS 8|beckerPiazzato 1|*|soluzHypno|*|*|*|INGRDIENTI 0|4|=|*|*|false|*|=
+*|finestraZoomC|682|45|paginaCCornuto|1|HINTpics|*|*|SHOW|pagineCorvoC 0|pagineCorvoC 1|stanzaAbbyFOGLIO|*|*|*|*|*|5|=|*|*|false|*|=

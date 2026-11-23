@@ -1,0 +1,64 @@
+animaliDOC|livre
+bacca|baie
+bacche|baies
+bekerP|bocal plein
+bekerP2|bocal plein
+bekerV|bocal vide
+BingredientiDOC|feuille
+bisturi|lame
+cacciavite|tourne-vis
+chiaveAbby|clÃ©
+chiaveArmadio|clÃ©
+chiaveBotola|clÃ©
+chiaveLiana|clÃ©
+chiaveMarta|clÃ©
+chiavePoltronaM|clÃ©
+chiaveRighe|clÃ©
+chiaveSPcucina|clÃ©
+chiaveUccello|clÃ©
+chiavistello|verrou
+chiodo|clou
+corvoCornu|Corbeau Cornu
+falcetto|faucille
+Fara|fleur orange
+Fazzu|fleur bleue
+Fgia|fleur jaune
+fiammiferi|allumettes
+forbiciOro|ciseaux dorÃ©s
+Fred|fleur rouge
+Fviola|fleur pourpre
+guantiForno|maniques
+guantoForno1|manique
+indizFruttaPOP|feuille
+indizioNavePOP|feuille
+ingredientiDOC|livre
+ipnoticoPOP|feuille
+letteraDOC|lettre
+letteraMandrakeDOC|lettre
+libroUccelliDOC|livre
+mandrakeBocc|Esprit de Mandragore
+marmellata|Confiture assaisonnÃ©e
+martello|marteau
+moneta|piÃ¨ce
+pasto|dessert
+pennello|pinceau
+pinza|tenailles
+puzZPOP|feuille
+ricettaDOC|feuille
+richiamo_sx_GUI|appeau
+ritaglio|recette
+Rpennello|pinceau
+schifrutto|Mangue de Judas
+serratOBJ|verrou
+speziere_dx_GUI|moulin Ã  saveur
+teschioU|crÃ¢ne dâ€™oiseau clouÃ©
+vasoApe|bocal
+vasoApePieno|bocal avec guÃªpe
+vasoMiele|bouteille
+vasoPMiele|bouteille avec miel
+BaccheP|Jus De Baies Juteux
+LiquiP|RÃ©glisse
+MandrakeP|Esprit De Mandragore
+MarmellaP|Confiture AssaisonnÃ©e
+MieleP|Miel De GuÃªpe
+SchifruttoP|Jus De Mangue De Judas

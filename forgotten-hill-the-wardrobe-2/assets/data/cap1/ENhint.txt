@@ -1,0 +1,23 @@
+
+ Something is missing
+ Select hint or close hint menu
+ This object can help you. Check your inventory.
+ This item can help you. Check it carefully.
+ Check this location carefully...
+ 
+ 
+ 
+ Listen to the story Waylon tells...
+ Try to imitate the sound the Imp plays...
+ Bring the knight to his destination by hitting all the monsters
+ 
+ 
+ 
+ 
+ 
+
+|piano11| The wall panels represent the piano keys... |
+|giraGemme1| This item can help you. Check it carefully. |
+|storiella1| The bed decorations stay for coins. Gold on the left, silver on the right... |
+|cassaArmadio1| This object can help you. Check your inventory. |
+|cassaArmadio2| With the right illumination, you will find the solution... |

@@ -1,0 +1,6 @@
+bigliettoSpecchioPOP|400|200|400|a| La luz siempre es reveladora.
+
+indizioNavePOP|400|280|350|a| Un buen capitÃ¡n siempre sigue el rumbo |splash
+puzZPOP|400|280|350|a||splash
+indizFruttaPOP|400|280|350|a||splash
+ipnoticoPOP|400|90|500|a| Casi me las arreglÃ© para recrear el Sabor Olvidado. Creo que me faltan algunos ingredientes, pero esta receta se acerca mucho. El pecado tiene un poderoso efecto hipnÃ³tico. |splash

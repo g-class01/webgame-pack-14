@@ -1,0 +1,16 @@
+chiaveSpecchio|chave
+chiaveT|chave
+bigliettoSpecchioPOP|pedaÃ§o de papel
+cacciavite|chave de fendas
+candela|vela
+candelabro|castiÃ§al
+chiaveArmadio|chave
+chiaveCam|chave
+chiaveSTarmadio|chave
+coltello|faca
+fiammiferi|fÃ³sforos
+fogliettoPOP|pedaÃ§o de papel
+gemma|joia
+medicina|remÃ©dio
+serratOBJ|fechadura da porta
+

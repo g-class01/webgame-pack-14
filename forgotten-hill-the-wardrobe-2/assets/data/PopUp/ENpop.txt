@@ -1,0 +1,9 @@
+filename|startX|startY|spazioDisp|font|text|sceneNameToBlock
+
+bigliettoSpecchioPOP|400|200|400|a| Light is always revealing.
+
+indizioNavePOP|400|280|350|a| A good captain always follows the course |splash
+puzZPOP|400|280|350|a||splash
+indizFruttaPOP|400|280|350|a||splash
+ipnoticoPOP|400|90|500|a| I almost managed to recreate the Forgotten Flavor. I think I am missing some ingredients, but this recipe comes very close. Unfortunately, it has a powerful hypnotic effect. |splash
+

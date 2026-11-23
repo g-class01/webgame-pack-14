@@ -1,0 +1,64 @@
+animaliDOC|ÐšÐ½Ð¸Ð³Ð°
+bacca|ÑÐ³Ð¾Ð´Ð°
+bacche|ÑÐ³Ð¾Ð´Ñ‹
+bekerP|Ð¿Ð¾Ð»Ð½Ð°Ñ Ð±Ð°Ð½ÐºÐ°
+bekerP2|Ð¿Ð¾Ð»Ð½Ð°Ñ Ð±Ð°Ð½ÐºÐ°
+bekerV|Ð¿ÑƒÑÑ‚Ð°Ñ Ð±Ð°Ð½ÐºÐ°
+BingredientiDOC|ÐºÑƒÑÐ¾Ñ‡ÐµÐº Ð±ÑƒÐ¼Ð°Ð³Ð¸
+bisturi|Ñ€ÐµÐ·Ð°Ðº
+cacciavite|Ð¾Ñ‚Ð²ÐµÑ€Ñ‚ÐºÐ°
+chiaveAbby|ÐšÐ»ÑŽÑ‡
+chiaveArmadio|ÐšÐ»ÑŽÑ‡
+chiaveBotola|ÐšÐ»ÑŽÑ‡
+ChiaveLiana|ÐšÐ»ÑŽÑ‡
+chiaveMarta|ÐšÐ»ÑŽÑ‡
+chiavePoltronaM|ÐšÐ»ÑŽÑ‡
+chiaveRighe|ÐšÐ»ÑŽÑ‡
+chiaveSPcucina|ÐšÐ»ÑŽÑ‡
+chiaveUccello|ÐšÐ»ÑŽÑ‡
+chiavistello|Ð·Ð°Ð¼Ð¾Ðº
+chiodo|Ð³Ð²Ð¾Ð·Ð´ÑŒ
+corvoCornu|Ð Ð¾Ð³Ð°Ñ‚Ð°Ñ Ð²Ð¾Ñ€Ð¾Ð½Ð°
+falcetto|ÑÐµÑ€Ð¿
+Fara|Ð¾Ñ€Ð°Ð½Ð¶ÐµÐ²Ñ‹Ð¹ Ñ†Ð²ÐµÑ‚Ð¾Ðº
+Fazzu|Ð³Ð¾Ð»ÑƒÐ±Ð¾Ð¹ Ñ†Ð²ÐµÑ‚Ð¾Ðº
+Fgia|Ð¶ÐµÐ»Ñ‚Ñ‹Ð¹ Ñ†Ð²ÐµÑ‚Ð¾Ðº
+fiammiferi|Ð¡Ð¿Ð¸Ñ‡ÐºÐ¸
+forbiciOro|Ð·Ð¾Ð»Ð¾Ñ‚Ñ‹Ðµ Ð½Ð¾Ð¶Ð½Ð¸Ñ†Ñ‹
+Fred|ÐºÑ€Ð°ÑÐ½Ñ‹Ð¹ Ñ†Ð²ÐµÑ‚Ð¾Ðº
+Fviola|Ñ„Ð¸Ð¾Ð»ÐµÑ‚Ð¾Ð²Ñ‹Ð¹ Ñ†Ð²ÐµÑ‚Ð¾Ðº
+guantiForno|Ñ€ÑƒÐºÐ°Ð²Ð¸Ñ†Ñ‹ Ð´Ð»Ñ Ð´ÑƒÑ…Ð¾Ð²ÐºÐ¸
+guantoForno1|Ñ€ÑƒÐºÐ°Ð²Ð¸Ñ†Ð° Ð´Ð»Ñ Ð´ÑƒÑ…Ð¾Ð²ÐºÐ¸
+indizFruttaPOP|ÐºÑƒÑÐ¾Ñ‡ÐµÐº Ð±ÑƒÐ¼Ð°Ð³Ð¸
+indizioNavePOP|ÐºÑƒÑÐ¾Ñ‡ÐµÐº Ð±ÑƒÐ¼Ð°Ð³Ð¸
+ingredientiDOC|ÐšÐ½Ð¸Ð³Ð°
+ipnoticoPOP|ÐºÑƒÑÐ¾Ñ‡ÐµÐº Ð±ÑƒÐ¼Ð°Ð³Ð¸
+letteraDOC|Ð¿Ð¸ÑÑŒÐ¼Ð¾
+letteraMandrakeDOC|Ð¿Ð¸ÑÑŒÐ¼Ð¾
+libroUccelliDOC|ÐšÐ½Ð¸Ð³Ð°
+mandrakeBocc|Ð¡Ð¿Ð¸Ñ€Ñ‚ Ð¸Ð· ÐœÐ°Ð½Ð´Ñ€Ð°Ð³Ð¾Ñ€Ñ‹
+marmellata|Ð²Ñ‹Ð´ÐµÑ€Ð¶Ð°Ð½Ð½Ð¾Ðµ Ð²Ð°Ñ€ÐµÐ½ÑŒÐµ
+martello|ÐœÐ¾Ð»Ð¾Ñ‚Ð¾Ðº
+moneta|Ð¼Ð¾Ð½ÐµÑ‚Ð°
+pasto|Ð´ÐµÑÐµÑ€Ñ‚
+pennello|ÐºÐ¸ÑÑ‚Ð¾Ñ‡ÐºÐ°
+pinza|Ð¿Ð¸Ð½Ñ†ÐµÑ‚
+puzZPOP|ÐºÑƒÑÐ¾Ñ‡ÐµÐº Ð±ÑƒÐ¼Ð°Ð³Ð¸
+ricettaDOC|ÐºÑƒÑÐ¾Ñ‡ÐµÐº Ð±ÑƒÐ¼Ð°Ð³Ð¸
+richiamo_sx_GUI|ÑƒÑ‚Ð¸Ð½Ñ‹Ð¹ Ð¼Ð°Ð½Ð¾Ðº
+ritaglio|Ñ€ÐµÑ†ÐµÐ¿Ñ‚
+Rpennello|ÐºÐ¸ÑÑ‚Ð¾Ñ‡ÐºÐ°
+schifrutto|ÐœÐ°Ð½Ð³Ð¾ Ð˜ÑƒÐ´Ñ‹
+serratOBJ|Ð·Ð°Ð¼Ð¾Ðº
+speziere_dx_GUI|Ð¼ÐµÐ»ÑŒÐ½Ð¸Ñ†Ð° Ð´Ð»Ñ Ð°Ñ€Ð¾Ð¼Ð°Ñ‚Ð¾Ð²
+teschioU|Ð¿Ñ‚Ð¸Ñ‡Ð¸Ð¹ Ñ‡ÐµÑ€ÐµÐ¿ Ð½Ð° Ð³Ð²Ð¾Ð·Ð´Ðµ
+vasoApe|Ð±Ð¾Ñ‡Ð¾Ð½Ð¾Ðº
+vasoApePieno|Ð±Ð°Ð½ÐºÐ° Ñ Ð¾ÑÐ¾Ð¹
+vasoMiele|Ð±ÑƒÑ‚Ñ‹Ð»ÐºÐ°
+vasoPMiele|Ð±ÑƒÑ‚Ñ‹Ð»ÐºÐ° Ñ Ð¼ÐµÐ´Ð¾Ð¼
+BaccheP|ÑÐ³Ð¾Ð´Ð½Ñ‹Ð¹ ÑÐ¾Ðº
+LiquiP|Ð»Ð°ÐºÑ€Ð¸Ñ†Ð°
+MandrakeP|Ð¡Ð¿Ð¸Ñ€Ñ‚ Ð¸Ð· ÐœÐ°Ð½Ð´Ñ€Ð°Ð³Ð¾Ñ€Ñ‹
+MarmellaP|Ð²Ñ‹Ð´ÐµÑ€Ð¶Ð°Ð½Ð½Ð¾Ðµ Ð²Ð°Ñ€ÐµÐ½ÑŒÐµ
+MieleP|Ð¾ÑÐ¸Ð½Ñ‹Ð¹ Ð¼ÐµÐ´
+SchifruttoP|Ð¡Ð¾Ðº Ð¸Ð· ÐœÐ°Ð½Ð³Ð¾ Ð˜ÑƒÐ´Ñ‹

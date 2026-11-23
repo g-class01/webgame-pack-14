@@ -1,0 +1,16 @@
+chiaveSpecchio|llave
+chiaveT|llave
+bigliettoSpecchioPOP|pedazo de papel
+cacciavite|destornillador
+candela|vela
+candelabro|candeloro
+chiaveArmadio|llave
+chiaveCam|llave
+chiaveSTarmadio|llave
+coltello|cuchillo
+fiammiferi|cerillas
+fogliettoPOP|pedazo de papel
+gemma|joya
+medicina|medicamento
+serratOBJ|cerradura
+

@@ -1,0 +1,47 @@
+
+ Il manque quelque chose.
+ Choisissez un indice ou fermez le menu des indices.
+ Cet objet peut vous aider. Inspectez votre inventaire.
+ Cet objet peut vous aider. Observez-le avec attention.
+ Inspectez cet endroit avec attention...
+ Vous trouverez des indices importants dans ce livre.
+ 
+ Ã‰changez les tuiles afin que toutes les lignes correspondent.
+ Utilisez la lampe afin que lâ€™ombre des oiseaux corresponde Ã  leur silhouette.
+ Ã‰coutez attentivement lâ€™histoire que vous conte le majordome.
+ Cet objet peut vous aider. Inspectez votre inventaire.
+ Suivez les lignes pour trouver la mauvaise carte.
+ Remplissez les espaces avec les muffins sans jamais les superposer.
+ Consultez le livre pour trouver qui peut vous aider avec lâ€™horloge.
+ 
+ 
+ 
+|hintPuzRighe1| La premiÃ¨re ligne doit Ãªtre ainsi, pouvez-vous continuer tout seul ?|
+|puzNave1| Pressez les plots du mur en reproduisant la route du bateau.|
+|anatraPrimo1| Dans ce livre, vous trouverez dâ€™importants indices.|
+|anatraPrimo2| Faites cette sÃ©quence avec lâ€™appeau pour appeler le canard.|
+|anatraFame1| On dirait que le canard est affamÃ©.|
+|anatraFame2| Observez cet endroit attentivementâ€¦|
+|hintLangAnatre1| Le canard connaÃ®t les mots de remerciement...|
+|hintLangAnatre2| Voici les mots de remerciement, utilisez lâ€™appeau pour les dire.|
+|PuzZampe1| VÃ©rifiez la longueur et lâ€™inclinaison de chaque partie pour correspondre Ã  lâ€™indice.|
+|corvese1| Regardez dans le livre comment traduire la langue des canards vers celle des corbeaux.|
+|corvese2| Reproduisez cette sÃ©quence avec lâ€™appeau pour rÃ©pondre au majordome.|
+|rosaRossa1| Observez cet endroit attentivement...|
+|rosaRossa2| Trempez la brosse dans du sang pour peindre les roses en rouge.|
+|puzPiantaSfiori1| Placez les fleurs selon les indications du limerick.|
+|puzPiantaSfiori2| Placez les fleurs sur les lianes de cette maniÃ¨re.|
+|richiamaCorvo1| Consultez le livre pour apprendre Ã  appeler le corbeau cornu.|
+|richiamaCorvo2| Faites cette sÃ©quence avec lâ€™appeau pour appeler le corbeau cornu.|
+|ripetiCorvo1| RÃ©pÃ©tez ce que dit le corbeau en le traduisant dans la langue des canards.|
+|puzzleFrutta1| Utilisez le dÃ©codeur et les symboles sur le tableau pour trouver la bonne combinaison.|
+|ingressoMartha1| Consultez le limerick pour trouver la combinaison florale prÃ©fÃ©rÃ©e de Martha.|
+|primoPico1| Consultez le livre pour trouver comment vous faire suivre par Pico.|
+|picoAiuto1| Consultez le livre pour obtenir lâ€™aide de Pico.|
+|picoNusma1| Faites renifler la manique par Pico puis demandez-lui de lâ€™aide.|
+|picoMandrake1| Amenez Pico ici et demandez-lui de lâ€™aide.|
+|chiamaVespa1| Consultez le livre pour apprendre Ã  appeler la guÃªpe Ã  miel.|
+|hintCalmaApi1| Consultez le livre pour apprendre Ã  calmer les guÃªpes.|
+|forgottenTaste1| Nous vous aidons Ã  crÃ©er la Saveur OubliÃ©e : il vous faudra trois portions de miel...|
+|forgottenTaste2| Disposez les ingrÃ©dients de cette faÃ§on pour obtenir la Saveur OubliÃ©e.|
+|pozzaHypno1| Fabriquez la saveur avec des effets hypnotiques et donnez-la au majordome.|
